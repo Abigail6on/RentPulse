@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Library](https://img.shields.io/badge/Library-XGBoost-orange)
-![Status](https://img.shields.io/badge/Status-Complete-green)
+![Status](https://img.shields.io/badge/Status-Evolution_in_Progress-blueviolet)
 
 ## 📖 Project Overview
 **RentPulse** is a machine learning project designed to forecast residential rental prices in major Ontario hubs (Toronto, Ottawa, Kitchener, Hamilton, London). 
