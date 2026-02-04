@@ -1,64 +1,94 @@
-# 🏠 RentPulse: Ontario Rental Market Forecasting Engine
+# 🇨🇦 RentPulse: National Rent Intelligence Engine
 
-### **AI-Powered Predictive Modeling for 2026-2027**
+### **AI-Powered Real Estate Forecasting | 2026 Predictive Model**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Library](https://img.shields.io/badge/Library-XGBoost-orange)
-![Status](https://img.shields.io/badge/Status-Evolution_in_Progress-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
+![Library](https://img.shields.io/badge/Model-XGBoost-orange)
+![Coverage](https://img.shields.io/badge/Coverage-National_(Canada)-red)
+![Status](https://img.shields.io/badge/Status-Production_Ready-success)
 
 ## 📖 Project Overview
 
-**RentPulse** is a machine learning project designed to forecast residential rental prices in major Ontario hubs (Toronto, Ottawa, Kitchener, Hamilton, London).
+**RentPulse** is a machine learning initiative designed to forecast residential rental prices across Canada's major metropolitan areas.
 
-Unlike simple linear projections, this project uses **XGBoost (Extreme Gradient Boosting)** to analyze 10 years of complex macro-economic data, including interest rates, population growth acceleration, and unemployment shocks.
+Moving beyond simple trendlines, this project leverages **XGBoost (Extreme Gradient Boosting)** to analyze a decade of complex economic signals—including Cap Rates, Student Visa "Demand Shocks," and Yield Compression—to predict where the market is heading 12 months in advance.
 
-### 🚀 **Project Evolution**
+### 🔄 From Scraper to AI: The Evolution (V1 vs. V2)
 
-This initiative represents a significant **strategic enhancement** of my previous **Zumper Leasing Project**.
+This project started as a simple web scraper but evolved into a predictive econometric model to address data quality issues.
 
-- **Previous Scope:** Focused on web-scraped listing data (Zumper).
-- **Current Enhancement:** Shifts focus to **official macro-economic indicators** (StatCan, CMHC, Bank of Canada) to build a more robust, policy-sensitive forecasting engine specifically for the **Ontario leasing market**.
+| Feature | ⚠️ V1 (The Prototype) | ✅ V2 (The Intelligence Engine) |
+| :--- | :--- | :--- |
+| **Data Source** | Web Scraping (Zumper/Kijiji) | Official Gov Data (CMHC, CREA, IRCC) |
+| **Data Quality** | High Noise, Short-Term History | Clean, 10-Year Historical Context |
+| **Scope** | Ontario Only | National (All Major Canadian Cities) |
+| **Methodology** | Simple Linear Trendlines | **XGBoost Regressor** (Machine Learning) |
+| **Key Insight** | "Rents are going up." | "Rents will rise 15% due to Student/Supply mismatch." |
 
----
-
-## 📊 Key Findings & Insights
-
-1.  **The "Decoupling" Effect:** Analysis reveals that since 2021, rental prices have detached from standard CPI (Inflation), driven primarily by **Population Growth Acceleration**.
-2.  **The Interest Rate Paradox:** Contrary to standard economic theory, high interest rates in Ontario correlate with _higher_ rents (0.75 correlation), as the "Lock-In Effect" prevents renters from transitioning to homeownership.
-3.  **The "Safety Buffer":** Modeling diagnostics revealed a conservative bias during extreme spikes. A **3% strategic buffer** was engineered into the final forecasts to account for speculative market premiums.
-
----
-
-## 🛠️ Methodology
-
-The project follows a 5-Phase Data Science Pipeline:
-
-- **Phase 1: Data Engineering** - Aggregating disparate datasets (Population, CPI, Rent, Interest Rates) into a unified time-series.
-- **Phase 2: EDA** - Visualizing the "Race" between wages and rent, and identifying the "COVID Dip" anomaly.
-- **Phase 3: Feature Engineering** - Creating "Lag Features" (`Rent_Lag1`) and custom indicators like `Pop_Growth_Acceleration` and `is_pandemic` to teach the AI context.
-- **Phase 4: Model Training** - Training an XGBoost Regressor (MAPE: ~5.6%).
-- **Phase 5: Scenario Forecasting** - Simulating three future timelines (Status Quo, Boom, Correction) to generate a "Cone of Uncertainty" for 2026.
+**Why the change?**
+V1 revealed that listing prices fluctuate wildly week-to-week. To build an "Investor Grade" tool, I pivoted to V2 to ingest macro-economic indicators (Cap Rates, Migration, Housing Starts), allowing the AI to learn the *fundamental drivers* of rent rather than just reacting to noise.
 
 ---
 
-## 🔮 2026 Forecast Scenarios
+## 🧠 The Intelligence Pipeline
 
-The model predicts the following average rents for a 2-Bedroom unit under different economic conditions:
+The engine processes data through a 3-stage pipeline to generate "Investor Grade" insights:
 
-| City          | Status Quo (Baseline) | High Growth (Boom) | Correction (Cooling) |
-| :------------ | :-------------------- | :----------------- | :------------------- |
-| **Toronto**   | **$2,980**            | **$3,050**         | **$2,910**           |
-| **Ottawa**    | **$1,850**            | **$1,920**         | **$1,790**           |
-| **Kitchener** | **$1,650**            | **$1,710**         | **$1,590**           |
-
-_(Note: Values are model projections based on 2025 actuals + predictive growth)_
+| Stage | Action | Technology Used |
+| :--- | :--- | :--- |
+| **1. Data Fusion** | Merges 10 years of disparate data: **Supply** (CMHC), **Price** (CREA), and **Migration** (IRCC). | `Pandas` `OpenPyXL` |
+| **2. Feature Engineering** | Calculates "Money Metrics" like **Cap Rates**, **Lag Momentum**, and **Student-Supply Mismatch**. | `NumPy` `Interpolation` |
+| **3. Predictive Modeling** | Trains an **XGBoost Regressor** to predict *Growth %* rather than raw dollars. | `XGBoost` `Scikit-Learn` |
 
 ---
 
-## 💻 Tech Stack
+## 🔮 2026 Forecast Findings
 
-- **Language:** Python
-  - **Data Manipulation:** Pandas, NumPy, Openpyxl (Excel Engine)
-- **Visualization:** Seaborn, Matplotlib
-- **Machine Learning:** XGBoost, Scikit-Learn
-- **Deployment:** Joblib (JSON Model Export)
+The model (Test $R^2 = 0.66$) has identified significant divergence in Canadian markets for 2026.
+
+### **🏆 The Winner: Ottawa (+15%)**
+The model predicts **Ottawa** will experience the highest rent appreciation in 2026.
+* **Driver:** A critical imbalance between the surge in international student visas and lagging purpose-built rental supply.
+* **Signal:** High historical stability combined with recent yield compression suggests a "catch-up" growth phase.
+
+### **Market Watch**
+*(Check the `output/Final_2026_Rent_Forecast.csv` file for the full rankings)*
+
+| Rank | City | Forecasted Growth | Key Driver |
+| :--- | :--- | :--- | :--- |
+| **#1** | **Ottawa** | **+15.0%** | **Student/Supply Mismatch** |
+| #2 | *See CSV* | ... | ... |
+| #3 | *See CSV* | ... | ... |
+
+---
+
+## 📊 Model Performance
+
+We trained the AI on historical data (2015–2024) and tested it against unseen market conditions.
+
+- **R² Score:** `0.66` (Model explains 66% of rent variance)
+- **Training Score:** `0.92` (Strong grasp of historical patterns)
+- **Precision:** The model predicts annual rent growth within a margin of error of **±2.4%**.
+
+---
+
+## 💻 Tech Stack & Key Libraries
+
+* **Core:** Python 3.12
+* **Data Manipulation:** Pandas, NumPy
+* **Machine Learning:** XGBoost (Regressor), Scikit-Learn
+* **Visualization:** Matplotlib, Seaborn
+
+## 📂 Repository Structure
+
+```text
+├── data/
+│   ├── raw/                  # Original CMHC/CREA/IRCC files
+│   ├── processed/            # Cleaned Master Dataset (2015-2025)
+├── notebooks/
+│   ├── 01_data_merger.ipynb  # Pipeline: Cleaning & Merging
+│   ├── 02_feature_eng.ipynb  # Pipeline: Cap Rates & Lags
+│   ├── 03_train_model.ipynb  # Pipeline: XGBoost Training & Forecasting
+├── output/
+│   ├── Final_2026_Rent_Forecast.csv  # 🎯 THE FINAL RESULTS
+└── README.md
