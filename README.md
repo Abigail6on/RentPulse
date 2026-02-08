@@ -1,9 +1,9 @@
 # 🇨🇦 RentPulse: National Rent Intelligence Engine
 
-### **AI-Powered Real Estate Forecasting | 2026 Predictive Model**
+### **AI-Powered Real Estate Forecasting | 2030 Predictive Model**
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
-![Library](https://img.shields.io/badge/Model-XGBoost-orange)
+![Library](https://img.shields.io/badge/Model-XGBoost_V3-orange)
 ![Coverage](https://img.shields.io/badge/Coverage-National_(Canada)-red)
 ![Status](https://img.shields.io/badge/Status-Production_Ready-success)
 
@@ -11,64 +11,53 @@
 
 **RentPulse** is a machine learning initiative designed to forecast residential rental prices across Canada's major metropolitan areas.
 
-Moving beyond simple trendlines, this project leverages **XGBoost (Extreme Gradient Boosting)** to analyze a decade of complex economic signals—including Cap Rates, Student Visa "Demand Shocks," and Yield Compression—to predict where the market is heading 12 months in advance.
+Moving beyond simple trendlines, this project leverages **XGBoost (Extreme Gradient Boosting)** to analyze a decade of complex economic signals—including Cap Rates, Immigration (Population Growth), Interest Rates, and Yield Compression—to predict where the market is heading **5 years in advance**.
 
-### 🔄 From Scraper to AI: The Evolution (V1 vs. V2)
+### 🔄 The Evolution: V3 "Macro Brain"
 
-This project started as a simple web scraper but evolved into a predictive econometric model to address data quality issues.
+This project has evolved from a simple scraper into a comprehensive econometric forecasting engine.
 
-| Feature | ⚠️ V1 (The Prototype) | ✅ V2 (The Intelligence Engine) |
-| :--- | :--- | :--- |
-| **Data Source** | Web Scraping (Zumper/Kijiji) | Official Gov Data (CMHC, CREA, IRCC) |
-| **Data Quality** | High Noise, Short-Term History | Clean, 10-Year Historical Context |
-| **Scope** | Ontario Only | National (All Major Canadian Cities) |
-| **Methodology** | Simple Linear Trendlines | **XGBoost Regressor** (Machine Learning) |
-| **Key Insight** | "Rents are going up." | "Rents will rise 15% due to Student/Supply mismatch." |
-
-**Why the change?**
-V1 revealed that listing prices fluctuate wildly week-to-week. To build an "Investor Grade" tool, I pivoted to V2 to ingest macro-economic indicators (Cap Rates, Migration, Housing Starts), allowing the AI to learn the *fundamental drivers* of rent rather than just reacting to noise.
-
----
-
-## 🧠 The Intelligence Pipeline
-
-The engine processes data through a 3-stage pipeline to generate "Investor Grade" insights:
-
-| Stage | Action | Technology Used |
-| :--- | :--- | :--- |
-| **1. Data Fusion** | Merges 10 years of disparate data: **Supply** (CMHC), **Price** (CREA), and **Migration** (IRCC). | `Pandas` `OpenPyXL` |
-| **2. Feature Engineering** | Calculates "Money Metrics" like **Cap Rates**, **Lag Momentum**, and **Student-Supply Mismatch**. | `NumPy` `Interpolation` |
-| **3. Predictive Modeling** | Trains an **XGBoost Regressor** to predict *Growth %* rather than raw dollars. | `XGBoost` `Scikit-Learn` |
-
----
-
-## 🔮 2026 Forecast Findings
-
-The model (Test $R^2 = 0.66$) has identified significant divergence in Canadian markets for 2026.
-
-### **🏆 The Winner: Ottawa (+15%)**
-The model predicts **Ottawa** will experience the highest rent appreciation in 2026.
-* **Driver:** A critical imbalance between the surge in international student visas and lagging purpose-built rental supply.
-* **Signal:** High historical stability combined with recent yield compression suggests a "catch-up" growth phase.
-
-### **Market Watch**
-*(Check the `output/Final_2026_Rent_Forecast.csv` file for the full rankings)*
-
-| Rank | City | Forecasted Growth | Key Driver |
+| Feature | ⚠️ V1 (The Prototype) | ✅ V2 (The Intelligence Engine) | 🧠 V3 (The Macro Brain) |
 | :--- | :--- | :--- | :--- |
-| **#1** | **Ottawa** | **+15.0%** | **Student/Supply Mismatch** |
-| #2 | *See CSV* | ... | ... |
-| #3 | *See CSV* | ... | ... |
+| **Data Source** | Web Scraping (Zumper/Kijiji) | Official Gov Data (CMHC, CREA) | **Hybrid (Macro + Micro)** |
+| **Key Drivers** | Listings Count | Historical Price Trends | **Immigration & Interest Rates** |
+| **Scope** | Ontario Only | National (Current Year) | **National Forecast (2026-2030)** |
+| **Output** | Simple Trendlines | Next-Year Prediction | **Multi-Scenario Simulation** |
+
+---
+
+## 🔮 V3 Forecast: The "Crystal Ball" (2026–2030)
+
+The V3 Engine simulates three distinct economic futures to predict rent prices over the next 5 years.
+
+### **1. The National Forecast**
+*(See `output/v3_forecast_zoomed.png`)*
+* **🔴 Crisis Mode:** High Immigration (3.5%) + High Rates (5.0%) $\rightarrow$ Rents accelerate past **$2,800**.
+* **🟡 Status Quo:** Current trends continue $\rightarrow$ Steady annual increases, tracking historical inflation.
+* **🟢 Cooling Phase:** Lower Immigration (1.2%) + Cut Rates (2.5%) $\rightarrow$ Market stabilizes, allowing wages to catch up.
+
+### **2. The Affordability Gap**
+*(See `output/v3_affordability_gap.png`)*
+* Our analysis reveals a "Great Decoupling" starting in **2021**, where rent prices detached from wage growth (GDP per capita).
+* The **2030 Forecast** predicts this gap will widen, signaling a structural decline in renter purchasing power unless policy intervention occurs.
+
+### **3. Regional Winners & Losers**
+*(See `output/v3_forecast_provinces.png`)*
+* **High Cost:** BC and Ontario remain the most expensive, with structurally high floors.
+* **Fastest Growth:** Alberta and Nova Scotia are "importing inflation," showing the steepest acceleration in the Status Quo model.
+* **Stability:** Quebec and the Prairies remain the anchors of affordability.
 
 ---
 
 ## 📊 Model Performance
 
-We trained the AI on historical data (2015–2024) and tested it against unseen market conditions.
+We trained the AI on historical data (2015–2025) and tested it against unseen market conditions using **SHAP (SHapley Additive exPlanations)** to ensure the model isn't just memorizing numbers but understanding economic logic.
 
-- **R² Score:** `0.66` (Model explains 66% of rent variance)
-- **Training Score:** `0.92` (Strong grasp of historical patterns)
-- **Precision:** The model predicts annual rent growth within a margin of error of **±2.4%**.
+- **R² Score:** `0.99` (V3 Hybrid Model)
+- **Primary Drivers:**
+    1.  **Population Growth:** The single strongest predictor of rent spikes.
+    2.  **Interest Rates:** Validated the "Pass-Through" theory (Landlords pass mortgage hikes to tenants).
+- **Precision:** The model predicts annual rent growth within a margin of error of **±1.8%**.
 
 ---
 
@@ -77,6 +66,7 @@ We trained the AI on historical data (2015–2024) and tested it against unseen 
 * **Core:** Python 3.12
 * **Data Manipulation:** Pandas, NumPy
 * **Machine Learning:** XGBoost (Regressor), Scikit-Learn
+* **Explainable AI:** SHAP (Model Interpretability)
 * **Visualization:** Matplotlib, Seaborn
 
 ## 📂 Repository Structure
@@ -84,11 +74,13 @@ We trained the AI on historical data (2015–2024) and tested it against unseen 
 ```text
 ├── data/
 │   ├── raw/                  # Original CMHC/CREA/IRCC files
-│   ├── processed/            # Cleaned Master Dataset (2015-2025)
+│   ├── processed/            # Cleaned Hybrid V3 Dataset (2015-2030)
 ├── notebooks/
-│   ├── 01_data_merger.ipynb  # Pipeline: Cleaning & Merging
-│   ├── 02_feature_eng.ipynb  # Pipeline: Cap Rates & Lags
-│   ├── 03_train_model.ipynb  # Pipeline: XGBoost Training & Forecasting
-├── output/
-│   ├── Final_2026_Rent_Forecast.csv  # 🎯 THE FINAL RESULTS
-└── README.md
+│   ├── 01_data_merger.ipynb  # Pipeline
+│   ├── ...
+│   ├── 13_model_insights.ipynb      # SHAP Analysis (Step 4)
+│   ├── 14_forecast_scenarios.ipynb  # The Crystal Ball (Step 5)
+│   ├── 15_forecast_by_region.ipynb  # Regional Breakdown (Step 6)
+│   ├── 16_affordability_gap.ipynb   # Rent vs. Wages (Step 7)
+├── output/                   # Generated Charts & CSV Forecasts
+├── README.md                 # Project Documentation
