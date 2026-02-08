@@ -1,0 +1,2021 @@
+City,Province,Year,Scenario,Predicted_Rent
+Abbotsford-Mission,British Columbia,2026,Status Quo,1646.4796
+Alma,Unknown,2026,Status Quo,1010.01776
+Amos,Unknown,2026,Status Quo,1148.2821
+Baie-Comeau,Unknown,2026,Status Quo,1089.1748
+Barrie,Ontario,2026,Status Quo,1667.909
+Bathurst,Unknown,2026,Status Quo,1170.3203
+Bay Roberts,Unknown,2026,Status Quo,339.27112
+Bracebridge,Unknown,2026,Status Quo,1467.772
+Brandon,Unknown,2026,Status Quo,1255.3127
+Brantford,Ontario,2026,Status Quo,1527.4344
+Brighton,Unknown,2026,Status Quo,1304.5466
+Brock,Unknown,2026,Status Quo,1293.332
+Brockville,Unknown,2026,Status Quo,1276.0718
+Brooks,Unknown,2026,Status Quo,1286.5587
+Calgary,Alberta,2026,Status Quo,1737.2122
+Campbell River,Unknown,2026,Status Quo,1471.2467
+Campbellton,Unknown,2026,Status Quo,985.6862
+Campbellton,Unknown,2026,Status Quo,985.6862
+Campbellton,Unknown,2026,Status Quo,985.6862
+Camrose,Unknown,2026,Status Quo,1311.4237
+Canmore,Unknown,2026,Status Quo,2171.9583
+Cape Breton,Unknown,2026,Status Quo,1255.3127
+Centre Wellington,Unknown,2026,Status Quo,1483.8739
+Charlottetown,Prince Edward Island,2026,Status Quo,1409.5538
+Chatham-Kent,Unknown,2026,Status Quo,1255.3127
+Chilliwack,British Columbia,2026,Status Quo,1536.0692
+Cobourg,Unknown,2026,Status Quo,1534.7122
+Cold Lake,Unknown,2026,Status Quo,1362.235
+Collingwood,Unknown,2026,Status Quo,1479.7427
+Corner Brook,Unknown,2026,Status Quo,1201.1399
+Cornwall,Unknown,2026,Status Quo,1255.3127
+Courtenay,Unknown,2026,Status Quo,1530.131
+Cowansville,Unknown,2026,Status Quo,1194.4015
+Cranbrook,Unknown,2026,Status Quo,1255.3127
+Dawson Creek,Unknown,2026,Status Quo,1260.7391
+Dolbeau-Mistassini,Unknown,2026,Status Quo,930.828
+Drummondville,Quebec,2026,Status Quo,1114.9573
+Duncan,Unknown,2026,Status Quo,1341.6156
+East Hants,Unknown,2026,Status Quo,439.8463
+Edmonton,Alberta,2026,Status Quo,1536.9835
+Edmundston,Unknown,2026,Status Quo,1069.7242
+Elliot Lake,Unknown,2026,Status Quo,1089.9557
+Essex,Unknown,2026,Status Quo,385.50574
+Estevan,Unknown,2026,Status Quo,1260.103
+Fort St. John,Unknown,2026,Status Quo,1266.5825
+Fredericton,Unknown,2026,Status Quo,1295.1604
+Gander,Unknown,2026,Status Quo,1187.092
+Gaspé,Unknown,2026,Status Quo,1106.089
+Gatineau,Quebec,2026,Status Quo,1214.293
+Granby,Unknown,2026,Status Quo,1212.9504
+Grand Falls-Windsor,Unknown,2026,Status Quo,1158.5259
+Grande Prairie,Alberta,2026,Status Quo,1495.0238
+Gravenhurst,Unknown,2026,Status Quo,1429.2861
+Greater Napanee,Unknown,2026,Status Quo,1300.2943
+Sudbury,Ontario,2026,Status Quo,1511.6293
+Sudbury,Ontario,2026,Status Quo,1511.6293
+Guelph,Ontario,2026,Status Quo,1667.909
+Haldimand County,Unknown,2026,Status Quo,1255.2688
+Halifax,Nova Scotia,2026,Status Quo,1606.3384
+Hamilton,Ontario,2026,Status Quo,1563.5466
+Hawkesbury,Unknown,2026,Status Quo,1129.5988
+Hawkesbury,Unknown,2026,Status Quo,1129.5988
+Hawkesbury,Unknown,2026,Status Quo,1129.5988
+Hawkesbury,Unknown,2026,Status Quo,1129.5988
+Hawkesbury,Unknown,2026,Status Quo,1129.5988
+Hawkesbury,Unknown,2026,Status Quo,1129.5988
+High River,Unknown,2026,Status Quo,1263.7733
+Huntsville,Unknown,2026,Status Quo,1462.8556
+Ingersoll,Unknown,2026,Status Quo,1255.3127
+Joliette,Unknown,2026,Status Quo,1159.6522
+Kamloops,British Columbia,2026,Status Quo,1601.3735
+Kawartha Lakes,Unknown,2026,Status Quo,1448.398
+Kelowna,British Columbia,2026,Status Quo,1834.1841
+Kentville,Unknown,2026,Status Quo,1242.2177
+Kincardine,Unknown,2026,Status Quo,1532.3887
+Kings Subdivision,Unknown,2026,Status Quo,1255.3127
+Kingston,Ontario,2026,Status Quo,1607.3658
+Kitchener,Ontario,2026,Status Quo,1667.909
+La Tuque,Unknown,2026,Status Quo,916.32007
+Lachute,Unknown,2026,Status Quo,1187.4594
+Lacombe,Unknown,2026,Status Quo,1388.8763
+Lambton Shores,Unknown,2026,Status Quo,1456.3546
+Leamington,Unknown,2026,Status Quo,509.93457
+Les Îles-de-la-Madeleine,Unknown,2026,Status Quo,1123.869
+Lethbridge,Alberta,2026,Status Quo,1436.4446
+Lloydminster,Unknown,2026,Status Quo,1283.3728
+Lloydminster,Unknown,2026,Status Quo,1283.3728
+Lloydminster,Unknown,2026,Status Quo,1283.3728
+Lloydminster,Unknown,2026,Status Quo,1283.3728
+Lloydminster,Unknown,2026,Status Quo,1283.3728
+Lloydminster,Unknown,2026,Status Quo,1283.3728
+London,Ontario,2026,Status Quo,1527.4344
+Matane,Unknown,2026,Status Quo,985.0283
+Meaford,Unknown,2026,Status Quo,1275.6108
+Medicine Hat,Alberta,2026,Status Quo,1302.4543
+Midland,Unknown,2026,Status Quo,1410.5159
+Miramichi,Unknown,2026,Status Quo,1183.5189
+Mississippi Mills,Unknown,2026,Status Quo,506.42648
+Moncton,New Brunswick,2026,Status Quo,1367.6992
+Mont-Laurier,Unknown,2026,Status Quo,1026.3318
+Montmagny,Unknown,2026,Status Quo,1075.2257
+Montreal,Quebec,2026,Status Quo,1184.0294
+Montreal,Quebec,2026,Status Quo,1184.0294
+Moose Jaw,Unknown,2026,Status Quo,1268.0481
+Nanaimo,British Columbia,2026,Status Quo,1698.4231
+New Glasgow,Unknown,2026,Status Quo,1204.8853
+Norfolk,Unknown,2026,Status Quo,1190.651
+North Battleford,Unknown,2026,Status Quo,1255.3127
+North Bay,Unknown,2026,Status Quo,1322.226
+North Grenville,Unknown,2026,Status Quo,506.14236
+North Perth,Unknown,2026,Status Quo,1255.3127
+Okotoks,Unknown,2026,Status Quo,1457.2471
+Orillia,Unknown,2026,Status Quo,1393.8663
+Oshawa,Ontario,2026,Status Quo,1668.0348
+Ottawa,Ontario,2026,Status Quo,1691.6008
+Ottawa,Ontario,2026,Status Quo,1691.6008
+Owen Sound,Unknown,2026,Status Quo,1259.3081
+Parksville,Unknown,2026,Status Quo,1463.355
+Pembroke,Unknown,2026,Status Quo,1255.3127
+Penticton,Unknown,2026,Status Quo,1460.837
+Petawawa,Unknown,2026,Status Quo,1255.3127
+Peterborough,Ontario,2026,Status Quo,1527.4344
+Port Alberni,Unknown,2026,Status Quo,1255.3127
+Port Hope,Unknown,2026,Status Quo,1554.2384
+Portage La Prairie,Unknown,2026,Status Quo,1291.7135
+Powell River,Unknown,2026,Status Quo,1255.3127
+Prince Albert,Unknown,2026,Status Quo,1255.3127
+Prince Edward,Unknown,2026,Status Quo,1337.904
+Prince George,British Columbia,2026,Status Quo,1464.4747
+Prince Rupert,Unknown,2026,Status Quo,1280.3585
+Prévost,Unknown,2026,Status Quo,1255.3127
+Quebec City,Unknown,2026,Status Quo,1255.3127
+Queens,Unknown,2026,Status Quo,1227.3762
+Quesnel,Unknown,2026,Status Quo,1256.6768
+Quebec City,Unknown,2026,Status Quo,1255.3127
+Rawdon,Unknown,2026,Status Quo,1207.572
+Red Deer,Alberta,2026,Status Quo,1502.8304
+Red Deer County,Unknown,2026,Status Quo,1620.3153
+Regina,Saskatchewan,2026,Status Quo,1507.937
+Rimouski,Unknown,2026,Status Quo,1065.3336
+Rivière-du-Loup,Unknown,2026,Status Quo,1062.2645
+Roberval,Unknown,2026,Status Quo,458.373
+Rouyn-Noranda,Unknown,2026,Status Quo,1184.0972
+Saguenay,Quebec,2026,Status Quo,1088.6823
+Saint John,New Brunswick,2026,Status Quo,1307.245
+Saint-Félicien,Unknown,2026,Status Quo,1043.6035
+Saint-Georges,Unknown,2026,Status Quo,955.0472
+Saint-Hyacinthe,Unknown,2026,Status Quo,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2026,Status Quo,516.9296
+Sainte- Sophie,Unknown,2026,Status Quo,1255.3127
+Sainte-Adèle,Unknown,2026,Status Quo,1220.4961
+Sainte-Marie,Unknown,2026,Status Quo,1076.921
+Salaberry-de-Valleyfield,Unknown,2026,Status Quo,1173.3044
+Salmon Arm,Unknown,2026,Status Quo,1255.3127
+Sarnia,Ontario,2026,Status Quo,1485.643
+Saskatoon,Saskatchewan,2026,Status Quo,1507.937
+Saugeen Shores,Unknown,2026,Status Quo,1601.5559
+Sault Ste. Marie,Ontario,2026,Status Quo,1364.4807
+Sault Ste. Marie,Ontario,2026,Status Quo,1364.4807
+Scugog,Unknown,2026,Status Quo,1425.0541
+Sept-Îles,Unknown,2026,Status Quo,1166.5973
+Shawinigan,Unknown,2026,Status Quo,995.0126
+Sherbrooke,Quebec,2026,Status Quo,1111.908
+Sorel-Tracy,Unknown,2026,Status Quo,1068.7626
+Squamish,Unknown,2026,Status Quo,1998.8925
+St. Catharines-Niagara,Ontario,2026,Status Quo,1527.4344
+St. Johns,Newfoundland and Labrador,2026,Status Quo,1490.0146
+Steinbach,Unknown,2026,Status Quo,1202.8228
+Stratford,Unknown,2026,Status Quo,1534.0951
+Strathmore,Unknown,2026,Status Quo,1357.5739
+Summerland,Unknown,2026,Status Quo,1583.9158
+Summerside,Unknown,2026,Status Quo,1255.3127
+Swift Current,Unknown,2026,Status Quo,1242.0751
+Sylvan Lake,Unknown,2026,Status Quo,1307.2068
+Temiskaming Shores,Unknown,2026,Status Quo,492.95328
+Terrace,Unknown,2026,Status Quo,1255.3127
+The Nation,Unknown,2026,Status Quo,1359.6724
+Thetford Mines,Unknown,2026,Status Quo,958.98975
+Thompson,Unknown,2026,Status Quo,1264.8496
+Thunder Bay,Ontario,2026,Status Quo,1523.7958
+Tillsonburg,Unknown,2026,Status Quo,1255.3127
+Timmins,Unknown,2026,Status Quo,1289.2391
+Toronto,Ontario,2026,Status Quo,1884.4215
+Trois-Rivières,Unknown,2026,Status Quo,1057.2432
+Truro,Unknown,2026,Status Quo,1255.3127
+Val-d'Or,Unknown,2026,Status Quo,1166.7319
+Vancouver,British Columbia,2026,Status Quo,2163.77
+Vernon,Unknown,2026,Status Quo,1443.4896
+Victoria,British Columbia,2026,Status Quo,1892.3867
+Victoriaville,Unknown,2026,Status Quo,1084.3118
+West Grey,Unknown,2026,Status Quo,1255.3127
+West Nipissing,Unknown,2026,Status Quo,1255.3127
+Wetaskiwin,Unknown,2026,Status Quo,1293.7174
+Williams Lake,Unknown,2026,Status Quo,1322.4585
+Windsor,Ontario,2026,Status Quo,1446.0898
+Winnipeg,Manitoba,2026,Status Quo,1509.7512
+Wood Buffalo,Alberta,2026,Status Quo,1512.0941
+Woodstock,Unknown,2026,Status Quo,1491.5261
+Yarmouth,Unknown,2026,Status Quo,436.2153
+Yellowhead County,Unknown,2026,Status Quo,249.89777
+Yellowknife,Alberta,2026,Status Quo,1929.1405
+Yorkton,Unknown,2026,Status Quo,1255.3127
+Abbotsford-Mission,British Columbia,2027,Status Quo,1646.4796
+Alma,Unknown,2027,Status Quo,1010.01776
+Amos,Unknown,2027,Status Quo,1148.2821
+Baie-Comeau,Unknown,2027,Status Quo,1089.1748
+Barrie,Ontario,2027,Status Quo,1667.909
+Bathurst,Unknown,2027,Status Quo,1170.3203
+Bay Roberts,Unknown,2027,Status Quo,339.27112
+Bracebridge,Unknown,2027,Status Quo,1467.772
+Brandon,Unknown,2027,Status Quo,1255.3127
+Brantford,Ontario,2027,Status Quo,1527.4344
+Brighton,Unknown,2027,Status Quo,1304.5466
+Brock,Unknown,2027,Status Quo,1293.332
+Brockville,Unknown,2027,Status Quo,1276.0718
+Brooks,Unknown,2027,Status Quo,1286.5587
+Calgary,Alberta,2027,Status Quo,1737.2122
+Campbell River,Unknown,2027,Status Quo,1471.2467
+Campbellton,Unknown,2027,Status Quo,985.6862
+Campbellton,Unknown,2027,Status Quo,985.6862
+Campbellton,Unknown,2027,Status Quo,985.6862
+Camrose,Unknown,2027,Status Quo,1311.4237
+Canmore,Unknown,2027,Status Quo,2171.9583
+Cape Breton,Unknown,2027,Status Quo,1255.3127
+Centre Wellington,Unknown,2027,Status Quo,1483.8739
+Charlottetown,Prince Edward Island,2027,Status Quo,1409.5538
+Chatham-Kent,Unknown,2027,Status Quo,1255.3127
+Chilliwack,British Columbia,2027,Status Quo,1536.0692
+Cobourg,Unknown,2027,Status Quo,1534.7122
+Cold Lake,Unknown,2027,Status Quo,1362.235
+Collingwood,Unknown,2027,Status Quo,1479.7427
+Corner Brook,Unknown,2027,Status Quo,1201.1399
+Cornwall,Unknown,2027,Status Quo,1255.3127
+Courtenay,Unknown,2027,Status Quo,1530.131
+Cowansville,Unknown,2027,Status Quo,1194.4015
+Cranbrook,Unknown,2027,Status Quo,1255.3127
+Dawson Creek,Unknown,2027,Status Quo,1260.7391
+Dolbeau-Mistassini,Unknown,2027,Status Quo,930.828
+Drummondville,Quebec,2027,Status Quo,1114.9573
+Duncan,Unknown,2027,Status Quo,1341.6156
+East Hants,Unknown,2027,Status Quo,439.8463
+Edmonton,Alberta,2027,Status Quo,1536.9835
+Edmundston,Unknown,2027,Status Quo,1069.7242
+Elliot Lake,Unknown,2027,Status Quo,1089.9557
+Essex,Unknown,2027,Status Quo,385.50574
+Estevan,Unknown,2027,Status Quo,1260.103
+Fort St. John,Unknown,2027,Status Quo,1266.5825
+Fredericton,Unknown,2027,Status Quo,1295.1604
+Gander,Unknown,2027,Status Quo,1187.092
+Gaspé,Unknown,2027,Status Quo,1106.089
+Gatineau,Quebec,2027,Status Quo,1214.293
+Granby,Unknown,2027,Status Quo,1212.9504
+Grand Falls-Windsor,Unknown,2027,Status Quo,1158.5259
+Grande Prairie,Alberta,2027,Status Quo,1495.0238
+Gravenhurst,Unknown,2027,Status Quo,1429.2861
+Greater Napanee,Unknown,2027,Status Quo,1300.2943
+Sudbury,Ontario,2027,Status Quo,1511.6293
+Sudbury,Ontario,2027,Status Quo,1511.6293
+Guelph,Ontario,2027,Status Quo,1667.909
+Haldimand County,Unknown,2027,Status Quo,1255.2688
+Halifax,Nova Scotia,2027,Status Quo,1606.3384
+Hamilton,Ontario,2027,Status Quo,1563.5466
+Hawkesbury,Unknown,2027,Status Quo,1129.5988
+Hawkesbury,Unknown,2027,Status Quo,1129.5988
+Hawkesbury,Unknown,2027,Status Quo,1129.5988
+Hawkesbury,Unknown,2027,Status Quo,1129.5988
+Hawkesbury,Unknown,2027,Status Quo,1129.5988
+Hawkesbury,Unknown,2027,Status Quo,1129.5988
+High River,Unknown,2027,Status Quo,1263.7733
+Huntsville,Unknown,2027,Status Quo,1462.8556
+Ingersoll,Unknown,2027,Status Quo,1255.3127
+Joliette,Unknown,2027,Status Quo,1159.6522
+Kamloops,British Columbia,2027,Status Quo,1601.3735
+Kawartha Lakes,Unknown,2027,Status Quo,1448.398
+Kelowna,British Columbia,2027,Status Quo,1834.1841
+Kentville,Unknown,2027,Status Quo,1242.2177
+Kincardine,Unknown,2027,Status Quo,1532.3887
+Kings Subdivision,Unknown,2027,Status Quo,1255.3127
+Kingston,Ontario,2027,Status Quo,1607.3658
+Kitchener,Ontario,2027,Status Quo,1667.909
+La Tuque,Unknown,2027,Status Quo,916.32007
+Lachute,Unknown,2027,Status Quo,1187.4594
+Lacombe,Unknown,2027,Status Quo,1388.8763
+Lambton Shores,Unknown,2027,Status Quo,1456.3546
+Leamington,Unknown,2027,Status Quo,509.93457
+Les Îles-de-la-Madeleine,Unknown,2027,Status Quo,1123.869
+Lethbridge,Alberta,2027,Status Quo,1436.4446
+Lloydminster,Unknown,2027,Status Quo,1283.3728
+Lloydminster,Unknown,2027,Status Quo,1283.3728
+Lloydminster,Unknown,2027,Status Quo,1283.3728
+Lloydminster,Unknown,2027,Status Quo,1283.3728
+Lloydminster,Unknown,2027,Status Quo,1283.3728
+Lloydminster,Unknown,2027,Status Quo,1283.3728
+London,Ontario,2027,Status Quo,1527.4344
+Matane,Unknown,2027,Status Quo,985.0283
+Meaford,Unknown,2027,Status Quo,1275.6108
+Medicine Hat,Alberta,2027,Status Quo,1302.4543
+Midland,Unknown,2027,Status Quo,1410.5159
+Miramichi,Unknown,2027,Status Quo,1183.5189
+Mississippi Mills,Unknown,2027,Status Quo,506.42648
+Moncton,New Brunswick,2027,Status Quo,1367.6992
+Mont-Laurier,Unknown,2027,Status Quo,1026.3318
+Montmagny,Unknown,2027,Status Quo,1075.2257
+Montreal,Quebec,2027,Status Quo,1184.0294
+Montreal,Quebec,2027,Status Quo,1184.0294
+Moose Jaw,Unknown,2027,Status Quo,1268.0481
+Nanaimo,British Columbia,2027,Status Quo,1698.4231
+New Glasgow,Unknown,2027,Status Quo,1204.8853
+Norfolk,Unknown,2027,Status Quo,1190.651
+North Battleford,Unknown,2027,Status Quo,1255.3127
+North Bay,Unknown,2027,Status Quo,1322.226
+North Grenville,Unknown,2027,Status Quo,506.14236
+North Perth,Unknown,2027,Status Quo,1255.3127
+Okotoks,Unknown,2027,Status Quo,1457.2471
+Orillia,Unknown,2027,Status Quo,1393.8663
+Oshawa,Ontario,2027,Status Quo,1668.0348
+Ottawa,Ontario,2027,Status Quo,1691.6008
+Ottawa,Ontario,2027,Status Quo,1691.6008
+Owen Sound,Unknown,2027,Status Quo,1259.3081
+Parksville,Unknown,2027,Status Quo,1463.355
+Pembroke,Unknown,2027,Status Quo,1255.3127
+Penticton,Unknown,2027,Status Quo,1460.837
+Petawawa,Unknown,2027,Status Quo,1255.3127
+Peterborough,Ontario,2027,Status Quo,1527.4344
+Port Alberni,Unknown,2027,Status Quo,1255.3127
+Port Hope,Unknown,2027,Status Quo,1554.2384
+Portage La Prairie,Unknown,2027,Status Quo,1291.7135
+Powell River,Unknown,2027,Status Quo,1255.3127
+Prince Albert,Unknown,2027,Status Quo,1255.3127
+Prince Edward,Unknown,2027,Status Quo,1337.904
+Prince George,British Columbia,2027,Status Quo,1464.4747
+Prince Rupert,Unknown,2027,Status Quo,1280.3585
+Prévost,Unknown,2027,Status Quo,1255.3127
+Quebec City,Unknown,2027,Status Quo,1255.3127
+Queens,Unknown,2027,Status Quo,1227.3762
+Quesnel,Unknown,2027,Status Quo,1256.6768
+Quebec City,Unknown,2027,Status Quo,1255.3127
+Rawdon,Unknown,2027,Status Quo,1207.572
+Red Deer,Alberta,2027,Status Quo,1502.8304
+Red Deer County,Unknown,2027,Status Quo,1620.3153
+Regina,Saskatchewan,2027,Status Quo,1507.937
+Rimouski,Unknown,2027,Status Quo,1065.3336
+Rivière-du-Loup,Unknown,2027,Status Quo,1062.2645
+Roberval,Unknown,2027,Status Quo,458.373
+Rouyn-Noranda,Unknown,2027,Status Quo,1184.0972
+Saguenay,Quebec,2027,Status Quo,1088.6823
+Saint John,New Brunswick,2027,Status Quo,1307.245
+Saint-Félicien,Unknown,2027,Status Quo,1043.6035
+Saint-Georges,Unknown,2027,Status Quo,955.0472
+Saint-Hyacinthe,Unknown,2027,Status Quo,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2027,Status Quo,516.9296
+Sainte- Sophie,Unknown,2027,Status Quo,1255.3127
+Sainte-Adèle,Unknown,2027,Status Quo,1220.4961
+Sainte-Marie,Unknown,2027,Status Quo,1076.921
+Salaberry-de-Valleyfield,Unknown,2027,Status Quo,1173.3044
+Salmon Arm,Unknown,2027,Status Quo,1255.3127
+Sarnia,Ontario,2027,Status Quo,1485.643
+Saskatoon,Saskatchewan,2027,Status Quo,1507.937
+Saugeen Shores,Unknown,2027,Status Quo,1601.5559
+Sault Ste. Marie,Ontario,2027,Status Quo,1364.4807
+Sault Ste. Marie,Ontario,2027,Status Quo,1364.4807
+Scugog,Unknown,2027,Status Quo,1425.0541
+Sept-Îles,Unknown,2027,Status Quo,1166.5973
+Shawinigan,Unknown,2027,Status Quo,995.0126
+Sherbrooke,Quebec,2027,Status Quo,1111.908
+Sorel-Tracy,Unknown,2027,Status Quo,1068.7626
+Squamish,Unknown,2027,Status Quo,1998.8925
+St. Catharines-Niagara,Ontario,2027,Status Quo,1527.4344
+St. Johns,Newfoundland and Labrador,2027,Status Quo,1490.0146
+Steinbach,Unknown,2027,Status Quo,1202.8228
+Stratford,Unknown,2027,Status Quo,1534.0951
+Strathmore,Unknown,2027,Status Quo,1357.5739
+Summerland,Unknown,2027,Status Quo,1583.9158
+Summerside,Unknown,2027,Status Quo,1255.3127
+Swift Current,Unknown,2027,Status Quo,1242.0751
+Sylvan Lake,Unknown,2027,Status Quo,1307.2068
+Temiskaming Shores,Unknown,2027,Status Quo,492.95328
+Terrace,Unknown,2027,Status Quo,1255.3127
+The Nation,Unknown,2027,Status Quo,1359.6724
+Thetford Mines,Unknown,2027,Status Quo,958.98975
+Thompson,Unknown,2027,Status Quo,1264.8496
+Thunder Bay,Ontario,2027,Status Quo,1523.7958
+Tillsonburg,Unknown,2027,Status Quo,1255.3127
+Timmins,Unknown,2027,Status Quo,1289.2391
+Toronto,Ontario,2027,Status Quo,1884.4215
+Trois-Rivières,Unknown,2027,Status Quo,1057.2432
+Truro,Unknown,2027,Status Quo,1255.3127
+Val-d'Or,Unknown,2027,Status Quo,1166.7319
+Vancouver,British Columbia,2027,Status Quo,2163.77
+Vernon,Unknown,2027,Status Quo,1443.4896
+Victoria,British Columbia,2027,Status Quo,1892.3867
+Victoriaville,Unknown,2027,Status Quo,1084.3118
+West Grey,Unknown,2027,Status Quo,1255.3127
+West Nipissing,Unknown,2027,Status Quo,1255.3127
+Wetaskiwin,Unknown,2027,Status Quo,1293.7174
+Williams Lake,Unknown,2027,Status Quo,1322.4585
+Windsor,Ontario,2027,Status Quo,1446.0898
+Winnipeg,Manitoba,2027,Status Quo,1509.7512
+Wood Buffalo,Alberta,2027,Status Quo,1512.0941
+Woodstock,Unknown,2027,Status Quo,1491.5261
+Yarmouth,Unknown,2027,Status Quo,436.2153
+Yellowhead County,Unknown,2027,Status Quo,249.89777
+Yellowknife,Alberta,2027,Status Quo,1929.1405
+Yorkton,Unknown,2027,Status Quo,1255.3127
+Abbotsford-Mission,British Columbia,2028,Status Quo,1646.4796
+Alma,Unknown,2028,Status Quo,1010.01776
+Amos,Unknown,2028,Status Quo,1148.2821
+Baie-Comeau,Unknown,2028,Status Quo,1089.1748
+Barrie,Ontario,2028,Status Quo,1667.909
+Bathurst,Unknown,2028,Status Quo,1170.3203
+Bay Roberts,Unknown,2028,Status Quo,339.27112
+Bracebridge,Unknown,2028,Status Quo,1467.772
+Brandon,Unknown,2028,Status Quo,1255.3127
+Brantford,Ontario,2028,Status Quo,1527.4344
+Brighton,Unknown,2028,Status Quo,1304.5466
+Brock,Unknown,2028,Status Quo,1293.332
+Brockville,Unknown,2028,Status Quo,1276.0718
+Brooks,Unknown,2028,Status Quo,1286.5587
+Calgary,Alberta,2028,Status Quo,1737.2122
+Campbell River,Unknown,2028,Status Quo,1471.2467
+Campbellton,Unknown,2028,Status Quo,985.6862
+Campbellton,Unknown,2028,Status Quo,985.6862
+Campbellton,Unknown,2028,Status Quo,985.6862
+Camrose,Unknown,2028,Status Quo,1311.4237
+Canmore,Unknown,2028,Status Quo,2171.9583
+Cape Breton,Unknown,2028,Status Quo,1255.3127
+Centre Wellington,Unknown,2028,Status Quo,1483.8739
+Charlottetown,Prince Edward Island,2028,Status Quo,1409.5538
+Chatham-Kent,Unknown,2028,Status Quo,1255.3127
+Chilliwack,British Columbia,2028,Status Quo,1536.0692
+Cobourg,Unknown,2028,Status Quo,1534.7122
+Cold Lake,Unknown,2028,Status Quo,1362.235
+Collingwood,Unknown,2028,Status Quo,1479.7427
+Corner Brook,Unknown,2028,Status Quo,1201.1399
+Cornwall,Unknown,2028,Status Quo,1255.3127
+Courtenay,Unknown,2028,Status Quo,1530.131
+Cowansville,Unknown,2028,Status Quo,1194.4015
+Cranbrook,Unknown,2028,Status Quo,1255.3127
+Dawson Creek,Unknown,2028,Status Quo,1260.7391
+Dolbeau-Mistassini,Unknown,2028,Status Quo,930.828
+Drummondville,Quebec,2028,Status Quo,1114.9573
+Duncan,Unknown,2028,Status Quo,1341.6156
+East Hants,Unknown,2028,Status Quo,439.8463
+Edmonton,Alberta,2028,Status Quo,1536.9835
+Edmundston,Unknown,2028,Status Quo,1069.7242
+Elliot Lake,Unknown,2028,Status Quo,1089.9557
+Essex,Unknown,2028,Status Quo,385.50574
+Estevan,Unknown,2028,Status Quo,1260.103
+Fort St. John,Unknown,2028,Status Quo,1266.5825
+Fredericton,Unknown,2028,Status Quo,1295.1604
+Gander,Unknown,2028,Status Quo,1187.092
+Gaspé,Unknown,2028,Status Quo,1106.089
+Gatineau,Quebec,2028,Status Quo,1214.293
+Granby,Unknown,2028,Status Quo,1212.9504
+Grand Falls-Windsor,Unknown,2028,Status Quo,1158.5259
+Grande Prairie,Alberta,2028,Status Quo,1495.0238
+Gravenhurst,Unknown,2028,Status Quo,1429.2861
+Greater Napanee,Unknown,2028,Status Quo,1300.2943
+Sudbury,Ontario,2028,Status Quo,1511.6293
+Sudbury,Ontario,2028,Status Quo,1511.6293
+Guelph,Ontario,2028,Status Quo,1667.909
+Haldimand County,Unknown,2028,Status Quo,1255.2688
+Halifax,Nova Scotia,2028,Status Quo,1606.3384
+Hamilton,Ontario,2028,Status Quo,1563.5466
+Hawkesbury,Unknown,2028,Status Quo,1129.5988
+Hawkesbury,Unknown,2028,Status Quo,1129.5988
+Hawkesbury,Unknown,2028,Status Quo,1129.5988
+Hawkesbury,Unknown,2028,Status Quo,1129.5988
+Hawkesbury,Unknown,2028,Status Quo,1129.5988
+Hawkesbury,Unknown,2028,Status Quo,1129.5988
+High River,Unknown,2028,Status Quo,1263.7733
+Huntsville,Unknown,2028,Status Quo,1462.8556
+Ingersoll,Unknown,2028,Status Quo,1255.3127
+Joliette,Unknown,2028,Status Quo,1159.6522
+Kamloops,British Columbia,2028,Status Quo,1601.3735
+Kawartha Lakes,Unknown,2028,Status Quo,1448.398
+Kelowna,British Columbia,2028,Status Quo,1834.1841
+Kentville,Unknown,2028,Status Quo,1242.2177
+Kincardine,Unknown,2028,Status Quo,1532.3887
+Kings Subdivision,Unknown,2028,Status Quo,1255.3127
+Kingston,Ontario,2028,Status Quo,1607.3658
+Kitchener,Ontario,2028,Status Quo,1667.909
+La Tuque,Unknown,2028,Status Quo,916.32007
+Lachute,Unknown,2028,Status Quo,1187.4594
+Lacombe,Unknown,2028,Status Quo,1388.8763
+Lambton Shores,Unknown,2028,Status Quo,1456.3546
+Leamington,Unknown,2028,Status Quo,509.93457
+Les Îles-de-la-Madeleine,Unknown,2028,Status Quo,1123.869
+Lethbridge,Alberta,2028,Status Quo,1436.4446
+Lloydminster,Unknown,2028,Status Quo,1283.3728
+Lloydminster,Unknown,2028,Status Quo,1283.3728
+Lloydminster,Unknown,2028,Status Quo,1283.3728
+Lloydminster,Unknown,2028,Status Quo,1283.3728
+Lloydminster,Unknown,2028,Status Quo,1283.3728
+Lloydminster,Unknown,2028,Status Quo,1283.3728
+London,Ontario,2028,Status Quo,1527.4344
+Matane,Unknown,2028,Status Quo,985.0283
+Meaford,Unknown,2028,Status Quo,1275.6108
+Medicine Hat,Alberta,2028,Status Quo,1302.4543
+Midland,Unknown,2028,Status Quo,1410.5159
+Miramichi,Unknown,2028,Status Quo,1183.5189
+Mississippi Mills,Unknown,2028,Status Quo,506.42648
+Moncton,New Brunswick,2028,Status Quo,1367.6992
+Mont-Laurier,Unknown,2028,Status Quo,1026.3318
+Montmagny,Unknown,2028,Status Quo,1075.2257
+Montreal,Quebec,2028,Status Quo,1184.0294
+Montreal,Quebec,2028,Status Quo,1184.0294
+Moose Jaw,Unknown,2028,Status Quo,1268.0481
+Nanaimo,British Columbia,2028,Status Quo,1698.4231
+New Glasgow,Unknown,2028,Status Quo,1204.8853
+Norfolk,Unknown,2028,Status Quo,1190.651
+North Battleford,Unknown,2028,Status Quo,1255.3127
+North Bay,Unknown,2028,Status Quo,1322.226
+North Grenville,Unknown,2028,Status Quo,506.14236
+North Perth,Unknown,2028,Status Quo,1255.3127
+Okotoks,Unknown,2028,Status Quo,1457.2471
+Orillia,Unknown,2028,Status Quo,1393.8663
+Oshawa,Ontario,2028,Status Quo,1668.0348
+Ottawa,Ontario,2028,Status Quo,1691.6008
+Ottawa,Ontario,2028,Status Quo,1691.6008
+Owen Sound,Unknown,2028,Status Quo,1259.3081
+Parksville,Unknown,2028,Status Quo,1463.355
+Pembroke,Unknown,2028,Status Quo,1255.3127
+Penticton,Unknown,2028,Status Quo,1460.837
+Petawawa,Unknown,2028,Status Quo,1255.3127
+Peterborough,Ontario,2028,Status Quo,1527.4344
+Port Alberni,Unknown,2028,Status Quo,1255.3127
+Port Hope,Unknown,2028,Status Quo,1554.2384
+Portage La Prairie,Unknown,2028,Status Quo,1291.7135
+Powell River,Unknown,2028,Status Quo,1255.3127
+Prince Albert,Unknown,2028,Status Quo,1255.3127
+Prince Edward,Unknown,2028,Status Quo,1337.904
+Prince George,British Columbia,2028,Status Quo,1464.4747
+Prince Rupert,Unknown,2028,Status Quo,1280.3585
+Prévost,Unknown,2028,Status Quo,1255.3127
+Quebec City,Unknown,2028,Status Quo,1255.3127
+Queens,Unknown,2028,Status Quo,1227.3762
+Quesnel,Unknown,2028,Status Quo,1256.6768
+Quebec City,Unknown,2028,Status Quo,1255.3127
+Rawdon,Unknown,2028,Status Quo,1207.572
+Red Deer,Alberta,2028,Status Quo,1502.8304
+Red Deer County,Unknown,2028,Status Quo,1620.3153
+Regina,Saskatchewan,2028,Status Quo,1507.937
+Rimouski,Unknown,2028,Status Quo,1065.3336
+Rivière-du-Loup,Unknown,2028,Status Quo,1062.2645
+Roberval,Unknown,2028,Status Quo,458.373
+Rouyn-Noranda,Unknown,2028,Status Quo,1184.0972
+Saguenay,Quebec,2028,Status Quo,1088.6823
+Saint John,New Brunswick,2028,Status Quo,1307.245
+Saint-Félicien,Unknown,2028,Status Quo,1043.6035
+Saint-Georges,Unknown,2028,Status Quo,955.0472
+Saint-Hyacinthe,Unknown,2028,Status Quo,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2028,Status Quo,516.9296
+Sainte- Sophie,Unknown,2028,Status Quo,1255.3127
+Sainte-Adèle,Unknown,2028,Status Quo,1220.4961
+Sainte-Marie,Unknown,2028,Status Quo,1076.921
+Salaberry-de-Valleyfield,Unknown,2028,Status Quo,1173.3044
+Salmon Arm,Unknown,2028,Status Quo,1255.3127
+Sarnia,Ontario,2028,Status Quo,1485.643
+Saskatoon,Saskatchewan,2028,Status Quo,1507.937
+Saugeen Shores,Unknown,2028,Status Quo,1601.5559
+Sault Ste. Marie,Ontario,2028,Status Quo,1364.4807
+Sault Ste. Marie,Ontario,2028,Status Quo,1364.4807
+Scugog,Unknown,2028,Status Quo,1425.0541
+Sept-Îles,Unknown,2028,Status Quo,1166.5973
+Shawinigan,Unknown,2028,Status Quo,995.0126
+Sherbrooke,Quebec,2028,Status Quo,1111.908
+Sorel-Tracy,Unknown,2028,Status Quo,1068.7626
+Squamish,Unknown,2028,Status Quo,1998.8925
+St. Catharines-Niagara,Ontario,2028,Status Quo,1527.4344
+St. Johns,Newfoundland and Labrador,2028,Status Quo,1490.0146
+Steinbach,Unknown,2028,Status Quo,1202.8228
+Stratford,Unknown,2028,Status Quo,1534.0951
+Strathmore,Unknown,2028,Status Quo,1357.5739
+Summerland,Unknown,2028,Status Quo,1583.9158
+Summerside,Unknown,2028,Status Quo,1255.3127
+Swift Current,Unknown,2028,Status Quo,1242.0751
+Sylvan Lake,Unknown,2028,Status Quo,1307.2068
+Temiskaming Shores,Unknown,2028,Status Quo,492.95328
+Terrace,Unknown,2028,Status Quo,1255.3127
+The Nation,Unknown,2028,Status Quo,1359.6724
+Thetford Mines,Unknown,2028,Status Quo,958.98975
+Thompson,Unknown,2028,Status Quo,1264.8496
+Thunder Bay,Ontario,2028,Status Quo,1523.7958
+Tillsonburg,Unknown,2028,Status Quo,1255.3127
+Timmins,Unknown,2028,Status Quo,1289.2391
+Toronto,Ontario,2028,Status Quo,1884.4215
+Trois-Rivières,Unknown,2028,Status Quo,1057.2432
+Truro,Unknown,2028,Status Quo,1255.3127
+Val-d'Or,Unknown,2028,Status Quo,1166.7319
+Vancouver,British Columbia,2028,Status Quo,2163.77
+Vernon,Unknown,2028,Status Quo,1443.4896
+Victoria,British Columbia,2028,Status Quo,1892.3867
+Victoriaville,Unknown,2028,Status Quo,1084.3118
+West Grey,Unknown,2028,Status Quo,1255.3127
+West Nipissing,Unknown,2028,Status Quo,1255.3127
+Wetaskiwin,Unknown,2028,Status Quo,1293.7174
+Williams Lake,Unknown,2028,Status Quo,1322.4585
+Windsor,Ontario,2028,Status Quo,1446.0898
+Winnipeg,Manitoba,2028,Status Quo,1509.7512
+Wood Buffalo,Alberta,2028,Status Quo,1512.0941
+Woodstock,Unknown,2028,Status Quo,1491.5261
+Yarmouth,Unknown,2028,Status Quo,436.2153
+Yellowhead County,Unknown,2028,Status Quo,249.89777
+Yellowknife,Alberta,2028,Status Quo,1929.1405
+Yorkton,Unknown,2028,Status Quo,1255.3127
+Abbotsford-Mission,British Columbia,2029,Status Quo,1646.4796
+Alma,Unknown,2029,Status Quo,1010.01776
+Amos,Unknown,2029,Status Quo,1148.2821
+Baie-Comeau,Unknown,2029,Status Quo,1089.1748
+Barrie,Ontario,2029,Status Quo,1667.909
+Bathurst,Unknown,2029,Status Quo,1170.3203
+Bay Roberts,Unknown,2029,Status Quo,339.27112
+Bracebridge,Unknown,2029,Status Quo,1467.772
+Brandon,Unknown,2029,Status Quo,1255.3127
+Brantford,Ontario,2029,Status Quo,1527.4344
+Brighton,Unknown,2029,Status Quo,1304.5466
+Brock,Unknown,2029,Status Quo,1293.332
+Brockville,Unknown,2029,Status Quo,1276.0718
+Brooks,Unknown,2029,Status Quo,1286.5587
+Calgary,Alberta,2029,Status Quo,1737.2122
+Campbell River,Unknown,2029,Status Quo,1471.2467
+Campbellton,Unknown,2029,Status Quo,985.6862
+Campbellton,Unknown,2029,Status Quo,985.6862
+Campbellton,Unknown,2029,Status Quo,985.6862
+Camrose,Unknown,2029,Status Quo,1311.4237
+Canmore,Unknown,2029,Status Quo,2171.9583
+Cape Breton,Unknown,2029,Status Quo,1255.3127
+Centre Wellington,Unknown,2029,Status Quo,1483.8739
+Charlottetown,Prince Edward Island,2029,Status Quo,1409.5538
+Chatham-Kent,Unknown,2029,Status Quo,1255.3127
+Chilliwack,British Columbia,2029,Status Quo,1536.0692
+Cobourg,Unknown,2029,Status Quo,1534.7122
+Cold Lake,Unknown,2029,Status Quo,1362.235
+Collingwood,Unknown,2029,Status Quo,1479.7427
+Corner Brook,Unknown,2029,Status Quo,1201.1399
+Cornwall,Unknown,2029,Status Quo,1255.3127
+Courtenay,Unknown,2029,Status Quo,1530.131
+Cowansville,Unknown,2029,Status Quo,1194.4015
+Cranbrook,Unknown,2029,Status Quo,1255.3127
+Dawson Creek,Unknown,2029,Status Quo,1260.7391
+Dolbeau-Mistassini,Unknown,2029,Status Quo,930.828
+Drummondville,Quebec,2029,Status Quo,1114.9573
+Duncan,Unknown,2029,Status Quo,1341.6156
+East Hants,Unknown,2029,Status Quo,439.8463
+Edmonton,Alberta,2029,Status Quo,1536.9835
+Edmundston,Unknown,2029,Status Quo,1069.7242
+Elliot Lake,Unknown,2029,Status Quo,1089.9557
+Essex,Unknown,2029,Status Quo,385.50574
+Estevan,Unknown,2029,Status Quo,1260.103
+Fort St. John,Unknown,2029,Status Quo,1266.5825
+Fredericton,Unknown,2029,Status Quo,1295.1604
+Gander,Unknown,2029,Status Quo,1187.092
+Gaspé,Unknown,2029,Status Quo,1106.089
+Gatineau,Quebec,2029,Status Quo,1214.293
+Granby,Unknown,2029,Status Quo,1212.9504
+Grand Falls-Windsor,Unknown,2029,Status Quo,1158.5259
+Grande Prairie,Alberta,2029,Status Quo,1495.0238
+Gravenhurst,Unknown,2029,Status Quo,1429.2861
+Greater Napanee,Unknown,2029,Status Quo,1300.2943
+Sudbury,Ontario,2029,Status Quo,1511.6293
+Sudbury,Ontario,2029,Status Quo,1511.6293
+Guelph,Ontario,2029,Status Quo,1667.909
+Haldimand County,Unknown,2029,Status Quo,1255.2688
+Halifax,Nova Scotia,2029,Status Quo,1606.3384
+Hamilton,Ontario,2029,Status Quo,1563.5466
+Hawkesbury,Unknown,2029,Status Quo,1129.5988
+Hawkesbury,Unknown,2029,Status Quo,1129.5988
+Hawkesbury,Unknown,2029,Status Quo,1129.5988
+Hawkesbury,Unknown,2029,Status Quo,1129.5988
+Hawkesbury,Unknown,2029,Status Quo,1129.5988
+Hawkesbury,Unknown,2029,Status Quo,1129.5988
+High River,Unknown,2029,Status Quo,1263.7733
+Huntsville,Unknown,2029,Status Quo,1462.8556
+Ingersoll,Unknown,2029,Status Quo,1255.3127
+Joliette,Unknown,2029,Status Quo,1159.6522
+Kamloops,British Columbia,2029,Status Quo,1601.3735
+Kawartha Lakes,Unknown,2029,Status Quo,1448.398
+Kelowna,British Columbia,2029,Status Quo,1834.1841
+Kentville,Unknown,2029,Status Quo,1242.2177
+Kincardine,Unknown,2029,Status Quo,1532.3887
+Kings Subdivision,Unknown,2029,Status Quo,1255.3127
+Kingston,Ontario,2029,Status Quo,1607.3658
+Kitchener,Ontario,2029,Status Quo,1667.909
+La Tuque,Unknown,2029,Status Quo,916.32007
+Lachute,Unknown,2029,Status Quo,1187.4594
+Lacombe,Unknown,2029,Status Quo,1388.8763
+Lambton Shores,Unknown,2029,Status Quo,1456.3546
+Leamington,Unknown,2029,Status Quo,509.93457
+Les Îles-de-la-Madeleine,Unknown,2029,Status Quo,1123.869
+Lethbridge,Alberta,2029,Status Quo,1436.4446
+Lloydminster,Unknown,2029,Status Quo,1283.3728
+Lloydminster,Unknown,2029,Status Quo,1283.3728
+Lloydminster,Unknown,2029,Status Quo,1283.3728
+Lloydminster,Unknown,2029,Status Quo,1283.3728
+Lloydminster,Unknown,2029,Status Quo,1283.3728
+Lloydminster,Unknown,2029,Status Quo,1283.3728
+London,Ontario,2029,Status Quo,1527.4344
+Matane,Unknown,2029,Status Quo,985.0283
+Meaford,Unknown,2029,Status Quo,1275.6108
+Medicine Hat,Alberta,2029,Status Quo,1302.4543
+Midland,Unknown,2029,Status Quo,1410.5159
+Miramichi,Unknown,2029,Status Quo,1183.5189
+Mississippi Mills,Unknown,2029,Status Quo,506.42648
+Moncton,New Brunswick,2029,Status Quo,1367.6992
+Mont-Laurier,Unknown,2029,Status Quo,1026.3318
+Montmagny,Unknown,2029,Status Quo,1075.2257
+Montreal,Quebec,2029,Status Quo,1184.0294
+Montreal,Quebec,2029,Status Quo,1184.0294
+Moose Jaw,Unknown,2029,Status Quo,1268.0481
+Nanaimo,British Columbia,2029,Status Quo,1698.4231
+New Glasgow,Unknown,2029,Status Quo,1204.8853
+Norfolk,Unknown,2029,Status Quo,1190.651
+North Battleford,Unknown,2029,Status Quo,1255.3127
+North Bay,Unknown,2029,Status Quo,1322.226
+North Grenville,Unknown,2029,Status Quo,506.14236
+North Perth,Unknown,2029,Status Quo,1255.3127
+Okotoks,Unknown,2029,Status Quo,1457.2471
+Orillia,Unknown,2029,Status Quo,1393.8663
+Oshawa,Ontario,2029,Status Quo,1668.0348
+Ottawa,Ontario,2029,Status Quo,1691.6008
+Ottawa,Ontario,2029,Status Quo,1691.6008
+Owen Sound,Unknown,2029,Status Quo,1259.3081
+Parksville,Unknown,2029,Status Quo,1463.355
+Pembroke,Unknown,2029,Status Quo,1255.3127
+Penticton,Unknown,2029,Status Quo,1460.837
+Petawawa,Unknown,2029,Status Quo,1255.3127
+Peterborough,Ontario,2029,Status Quo,1527.4344
+Port Alberni,Unknown,2029,Status Quo,1255.3127
+Port Hope,Unknown,2029,Status Quo,1554.2384
+Portage La Prairie,Unknown,2029,Status Quo,1291.7135
+Powell River,Unknown,2029,Status Quo,1255.3127
+Prince Albert,Unknown,2029,Status Quo,1255.3127
+Prince Edward,Unknown,2029,Status Quo,1337.904
+Prince George,British Columbia,2029,Status Quo,1464.4747
+Prince Rupert,Unknown,2029,Status Quo,1280.3585
+Prévost,Unknown,2029,Status Quo,1255.3127
+Quebec City,Unknown,2029,Status Quo,1255.3127
+Queens,Unknown,2029,Status Quo,1227.3762
+Quesnel,Unknown,2029,Status Quo,1256.6768
+Quebec City,Unknown,2029,Status Quo,1255.3127
+Rawdon,Unknown,2029,Status Quo,1207.572
+Red Deer,Alberta,2029,Status Quo,1502.8304
+Red Deer County,Unknown,2029,Status Quo,1620.3153
+Regina,Saskatchewan,2029,Status Quo,1507.937
+Rimouski,Unknown,2029,Status Quo,1065.3336
+Rivière-du-Loup,Unknown,2029,Status Quo,1062.2645
+Roberval,Unknown,2029,Status Quo,458.373
+Rouyn-Noranda,Unknown,2029,Status Quo,1184.0972
+Saguenay,Quebec,2029,Status Quo,1088.6823
+Saint John,New Brunswick,2029,Status Quo,1307.245
+Saint-Félicien,Unknown,2029,Status Quo,1043.6035
+Saint-Georges,Unknown,2029,Status Quo,955.0472
+Saint-Hyacinthe,Unknown,2029,Status Quo,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2029,Status Quo,516.9296
+Sainte- Sophie,Unknown,2029,Status Quo,1255.3127
+Sainte-Adèle,Unknown,2029,Status Quo,1220.4961
+Sainte-Marie,Unknown,2029,Status Quo,1076.921
+Salaberry-de-Valleyfield,Unknown,2029,Status Quo,1173.3044
+Salmon Arm,Unknown,2029,Status Quo,1255.3127
+Sarnia,Ontario,2029,Status Quo,1485.643
+Saskatoon,Saskatchewan,2029,Status Quo,1507.937
+Saugeen Shores,Unknown,2029,Status Quo,1601.5559
+Sault Ste. Marie,Ontario,2029,Status Quo,1364.4807
+Sault Ste. Marie,Ontario,2029,Status Quo,1364.4807
+Scugog,Unknown,2029,Status Quo,1425.0541
+Sept-Îles,Unknown,2029,Status Quo,1166.5973
+Shawinigan,Unknown,2029,Status Quo,995.0126
+Sherbrooke,Quebec,2029,Status Quo,1111.908
+Sorel-Tracy,Unknown,2029,Status Quo,1068.7626
+Squamish,Unknown,2029,Status Quo,1998.8925
+St. Catharines-Niagara,Ontario,2029,Status Quo,1527.4344
+St. Johns,Newfoundland and Labrador,2029,Status Quo,1490.0146
+Steinbach,Unknown,2029,Status Quo,1202.8228
+Stratford,Unknown,2029,Status Quo,1534.0951
+Strathmore,Unknown,2029,Status Quo,1357.5739
+Summerland,Unknown,2029,Status Quo,1583.9158
+Summerside,Unknown,2029,Status Quo,1255.3127
+Swift Current,Unknown,2029,Status Quo,1242.0751
+Sylvan Lake,Unknown,2029,Status Quo,1307.2068
+Temiskaming Shores,Unknown,2029,Status Quo,492.95328
+Terrace,Unknown,2029,Status Quo,1255.3127
+The Nation,Unknown,2029,Status Quo,1359.6724
+Thetford Mines,Unknown,2029,Status Quo,958.98975
+Thompson,Unknown,2029,Status Quo,1264.8496
+Thunder Bay,Ontario,2029,Status Quo,1523.7958
+Tillsonburg,Unknown,2029,Status Quo,1255.3127
+Timmins,Unknown,2029,Status Quo,1289.2391
+Toronto,Ontario,2029,Status Quo,1884.4215
+Trois-Rivières,Unknown,2029,Status Quo,1057.2432
+Truro,Unknown,2029,Status Quo,1255.3127
+Val-d'Or,Unknown,2029,Status Quo,1166.7319
+Vancouver,British Columbia,2029,Status Quo,2163.77
+Vernon,Unknown,2029,Status Quo,1443.4896
+Victoria,British Columbia,2029,Status Quo,1892.3867
+Victoriaville,Unknown,2029,Status Quo,1084.3118
+West Grey,Unknown,2029,Status Quo,1255.3127
+West Nipissing,Unknown,2029,Status Quo,1255.3127
+Wetaskiwin,Unknown,2029,Status Quo,1293.7174
+Williams Lake,Unknown,2029,Status Quo,1322.4585
+Windsor,Ontario,2029,Status Quo,1446.0898
+Winnipeg,Manitoba,2029,Status Quo,1509.7512
+Wood Buffalo,Alberta,2029,Status Quo,1512.0941
+Woodstock,Unknown,2029,Status Quo,1491.5261
+Yarmouth,Unknown,2029,Status Quo,436.2153
+Yellowhead County,Unknown,2029,Status Quo,249.89777
+Yellowknife,Alberta,2029,Status Quo,1929.1405
+Yorkton,Unknown,2029,Status Quo,1255.3127
+Abbotsford-Mission,British Columbia,2030,Status Quo,1646.4796
+Alma,Unknown,2030,Status Quo,1010.01776
+Amos,Unknown,2030,Status Quo,1148.2821
+Baie-Comeau,Unknown,2030,Status Quo,1089.1748
+Barrie,Ontario,2030,Status Quo,1667.909
+Bathurst,Unknown,2030,Status Quo,1170.3203
+Bay Roberts,Unknown,2030,Status Quo,339.27112
+Bracebridge,Unknown,2030,Status Quo,1467.772
+Brandon,Unknown,2030,Status Quo,1255.3127
+Brantford,Ontario,2030,Status Quo,1527.4344
+Brighton,Unknown,2030,Status Quo,1304.5466
+Brock,Unknown,2030,Status Quo,1293.332
+Brockville,Unknown,2030,Status Quo,1276.0718
+Brooks,Unknown,2030,Status Quo,1286.5587
+Calgary,Alberta,2030,Status Quo,1737.2122
+Campbell River,Unknown,2030,Status Quo,1471.2467
+Campbellton,Unknown,2030,Status Quo,985.6862
+Campbellton,Unknown,2030,Status Quo,985.6862
+Campbellton,Unknown,2030,Status Quo,985.6862
+Camrose,Unknown,2030,Status Quo,1311.4237
+Canmore,Unknown,2030,Status Quo,2171.9583
+Cape Breton,Unknown,2030,Status Quo,1255.3127
+Centre Wellington,Unknown,2030,Status Quo,1483.8739
+Charlottetown,Prince Edward Island,2030,Status Quo,1409.5538
+Chatham-Kent,Unknown,2030,Status Quo,1255.3127
+Chilliwack,British Columbia,2030,Status Quo,1536.0692
+Cobourg,Unknown,2030,Status Quo,1534.7122
+Cold Lake,Unknown,2030,Status Quo,1362.235
+Collingwood,Unknown,2030,Status Quo,1479.7427
+Corner Brook,Unknown,2030,Status Quo,1201.1399
+Cornwall,Unknown,2030,Status Quo,1255.3127
+Courtenay,Unknown,2030,Status Quo,1530.131
+Cowansville,Unknown,2030,Status Quo,1194.4015
+Cranbrook,Unknown,2030,Status Quo,1255.3127
+Dawson Creek,Unknown,2030,Status Quo,1260.7391
+Dolbeau-Mistassini,Unknown,2030,Status Quo,930.828
+Drummondville,Quebec,2030,Status Quo,1114.9573
+Duncan,Unknown,2030,Status Quo,1341.6156
+East Hants,Unknown,2030,Status Quo,439.8463
+Edmonton,Alberta,2030,Status Quo,1536.9835
+Edmundston,Unknown,2030,Status Quo,1069.7242
+Elliot Lake,Unknown,2030,Status Quo,1089.9557
+Essex,Unknown,2030,Status Quo,385.50574
+Estevan,Unknown,2030,Status Quo,1260.103
+Fort St. John,Unknown,2030,Status Quo,1266.5825
+Fredericton,Unknown,2030,Status Quo,1295.1604
+Gander,Unknown,2030,Status Quo,1187.092
+Gaspé,Unknown,2030,Status Quo,1106.089
+Gatineau,Quebec,2030,Status Quo,1214.293
+Granby,Unknown,2030,Status Quo,1212.9504
+Grand Falls-Windsor,Unknown,2030,Status Quo,1158.5259
+Grande Prairie,Alberta,2030,Status Quo,1495.0238
+Gravenhurst,Unknown,2030,Status Quo,1429.2861
+Greater Napanee,Unknown,2030,Status Quo,1300.2943
+Sudbury,Ontario,2030,Status Quo,1511.6293
+Sudbury,Ontario,2030,Status Quo,1511.6293
+Guelph,Ontario,2030,Status Quo,1667.909
+Haldimand County,Unknown,2030,Status Quo,1255.2688
+Halifax,Nova Scotia,2030,Status Quo,1606.3384
+Hamilton,Ontario,2030,Status Quo,1563.5466
+Hawkesbury,Unknown,2030,Status Quo,1129.5988
+Hawkesbury,Unknown,2030,Status Quo,1129.5988
+Hawkesbury,Unknown,2030,Status Quo,1129.5988
+Hawkesbury,Unknown,2030,Status Quo,1129.5988
+Hawkesbury,Unknown,2030,Status Quo,1129.5988
+Hawkesbury,Unknown,2030,Status Quo,1129.5988
+High River,Unknown,2030,Status Quo,1263.7733
+Huntsville,Unknown,2030,Status Quo,1462.8556
+Ingersoll,Unknown,2030,Status Quo,1255.3127
+Joliette,Unknown,2030,Status Quo,1159.6522
+Kamloops,British Columbia,2030,Status Quo,1601.3735
+Kawartha Lakes,Unknown,2030,Status Quo,1448.398
+Kelowna,British Columbia,2030,Status Quo,1834.1841
+Kentville,Unknown,2030,Status Quo,1242.2177
+Kincardine,Unknown,2030,Status Quo,1532.3887
+Kings Subdivision,Unknown,2030,Status Quo,1255.3127
+Kingston,Ontario,2030,Status Quo,1607.3658
+Kitchener,Ontario,2030,Status Quo,1667.909
+La Tuque,Unknown,2030,Status Quo,916.32007
+Lachute,Unknown,2030,Status Quo,1187.4594
+Lacombe,Unknown,2030,Status Quo,1388.8763
+Lambton Shores,Unknown,2030,Status Quo,1456.3546
+Leamington,Unknown,2030,Status Quo,509.93457
+Les Îles-de-la-Madeleine,Unknown,2030,Status Quo,1123.869
+Lethbridge,Alberta,2030,Status Quo,1436.4446
+Lloydminster,Unknown,2030,Status Quo,1283.3728
+Lloydminster,Unknown,2030,Status Quo,1283.3728
+Lloydminster,Unknown,2030,Status Quo,1283.3728
+Lloydminster,Unknown,2030,Status Quo,1283.3728
+Lloydminster,Unknown,2030,Status Quo,1283.3728
+Lloydminster,Unknown,2030,Status Quo,1283.3728
+London,Ontario,2030,Status Quo,1527.4344
+Matane,Unknown,2030,Status Quo,985.0283
+Meaford,Unknown,2030,Status Quo,1275.6108
+Medicine Hat,Alberta,2030,Status Quo,1302.4543
+Midland,Unknown,2030,Status Quo,1410.5159
+Miramichi,Unknown,2030,Status Quo,1183.5189
+Mississippi Mills,Unknown,2030,Status Quo,506.42648
+Moncton,New Brunswick,2030,Status Quo,1367.6992
+Mont-Laurier,Unknown,2030,Status Quo,1026.3318
+Montmagny,Unknown,2030,Status Quo,1075.2257
+Montreal,Quebec,2030,Status Quo,1184.0294
+Montreal,Quebec,2030,Status Quo,1184.0294
+Moose Jaw,Unknown,2030,Status Quo,1268.0481
+Nanaimo,British Columbia,2030,Status Quo,1698.4231
+New Glasgow,Unknown,2030,Status Quo,1204.8853
+Norfolk,Unknown,2030,Status Quo,1190.651
+North Battleford,Unknown,2030,Status Quo,1255.3127
+North Bay,Unknown,2030,Status Quo,1322.226
+North Grenville,Unknown,2030,Status Quo,506.14236
+North Perth,Unknown,2030,Status Quo,1255.3127
+Okotoks,Unknown,2030,Status Quo,1457.2471
+Orillia,Unknown,2030,Status Quo,1393.8663
+Oshawa,Ontario,2030,Status Quo,1668.0348
+Ottawa,Ontario,2030,Status Quo,1691.6008
+Ottawa,Ontario,2030,Status Quo,1691.6008
+Owen Sound,Unknown,2030,Status Quo,1259.3081
+Parksville,Unknown,2030,Status Quo,1463.355
+Pembroke,Unknown,2030,Status Quo,1255.3127
+Penticton,Unknown,2030,Status Quo,1460.837
+Petawawa,Unknown,2030,Status Quo,1255.3127
+Peterborough,Ontario,2030,Status Quo,1527.4344
+Port Alberni,Unknown,2030,Status Quo,1255.3127
+Port Hope,Unknown,2030,Status Quo,1554.2384
+Portage La Prairie,Unknown,2030,Status Quo,1291.7135
+Powell River,Unknown,2030,Status Quo,1255.3127
+Prince Albert,Unknown,2030,Status Quo,1255.3127
+Prince Edward,Unknown,2030,Status Quo,1337.904
+Prince George,British Columbia,2030,Status Quo,1464.4747
+Prince Rupert,Unknown,2030,Status Quo,1280.3585
+Prévost,Unknown,2030,Status Quo,1255.3127
+Quebec City,Unknown,2030,Status Quo,1255.3127
+Queens,Unknown,2030,Status Quo,1227.3762
+Quesnel,Unknown,2030,Status Quo,1256.6768
+Quebec City,Unknown,2030,Status Quo,1255.3127
+Rawdon,Unknown,2030,Status Quo,1207.572
+Red Deer,Alberta,2030,Status Quo,1502.8304
+Red Deer County,Unknown,2030,Status Quo,1620.3153
+Regina,Saskatchewan,2030,Status Quo,1507.937
+Rimouski,Unknown,2030,Status Quo,1065.3336
+Rivière-du-Loup,Unknown,2030,Status Quo,1062.2645
+Roberval,Unknown,2030,Status Quo,458.373
+Rouyn-Noranda,Unknown,2030,Status Quo,1184.0972
+Saguenay,Quebec,2030,Status Quo,1088.6823
+Saint John,New Brunswick,2030,Status Quo,1307.245
+Saint-Félicien,Unknown,2030,Status Quo,1043.6035
+Saint-Georges,Unknown,2030,Status Quo,955.0472
+Saint-Hyacinthe,Unknown,2030,Status Quo,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2030,Status Quo,516.9296
+Sainte- Sophie,Unknown,2030,Status Quo,1255.3127
+Sainte-Adèle,Unknown,2030,Status Quo,1220.4961
+Sainte-Marie,Unknown,2030,Status Quo,1076.921
+Salaberry-de-Valleyfield,Unknown,2030,Status Quo,1173.3044
+Salmon Arm,Unknown,2030,Status Quo,1255.3127
+Sarnia,Ontario,2030,Status Quo,1485.643
+Saskatoon,Saskatchewan,2030,Status Quo,1507.937
+Saugeen Shores,Unknown,2030,Status Quo,1601.5559
+Sault Ste. Marie,Ontario,2030,Status Quo,1364.4807
+Sault Ste. Marie,Ontario,2030,Status Quo,1364.4807
+Scugog,Unknown,2030,Status Quo,1425.0541
+Sept-Îles,Unknown,2030,Status Quo,1166.5973
+Shawinigan,Unknown,2030,Status Quo,995.0126
+Sherbrooke,Quebec,2030,Status Quo,1111.908
+Sorel-Tracy,Unknown,2030,Status Quo,1068.7626
+Squamish,Unknown,2030,Status Quo,1998.8925
+St. Catharines-Niagara,Ontario,2030,Status Quo,1527.4344
+St. Johns,Newfoundland and Labrador,2030,Status Quo,1490.0146
+Steinbach,Unknown,2030,Status Quo,1202.8228
+Stratford,Unknown,2030,Status Quo,1534.0951
+Strathmore,Unknown,2030,Status Quo,1357.5739
+Summerland,Unknown,2030,Status Quo,1583.9158
+Summerside,Unknown,2030,Status Quo,1255.3127
+Swift Current,Unknown,2030,Status Quo,1242.0751
+Sylvan Lake,Unknown,2030,Status Quo,1307.2068
+Temiskaming Shores,Unknown,2030,Status Quo,492.95328
+Terrace,Unknown,2030,Status Quo,1255.3127
+The Nation,Unknown,2030,Status Quo,1359.6724
+Thetford Mines,Unknown,2030,Status Quo,958.98975
+Thompson,Unknown,2030,Status Quo,1264.8496
+Thunder Bay,Ontario,2030,Status Quo,1523.7958
+Tillsonburg,Unknown,2030,Status Quo,1255.3127
+Timmins,Unknown,2030,Status Quo,1289.2391
+Toronto,Ontario,2030,Status Quo,1884.4215
+Trois-Rivières,Unknown,2030,Status Quo,1057.2432
+Truro,Unknown,2030,Status Quo,1255.3127
+Val-d'Or,Unknown,2030,Status Quo,1166.7319
+Vancouver,British Columbia,2030,Status Quo,2163.77
+Vernon,Unknown,2030,Status Quo,1443.4896
+Victoria,British Columbia,2030,Status Quo,1892.3867
+Victoriaville,Unknown,2030,Status Quo,1084.3118
+West Grey,Unknown,2030,Status Quo,1255.3127
+West Nipissing,Unknown,2030,Status Quo,1255.3127
+Wetaskiwin,Unknown,2030,Status Quo,1293.7174
+Williams Lake,Unknown,2030,Status Quo,1322.4585
+Windsor,Ontario,2030,Status Quo,1446.0898
+Winnipeg,Manitoba,2030,Status Quo,1509.7512
+Wood Buffalo,Alberta,2030,Status Quo,1512.0941
+Woodstock,Unknown,2030,Status Quo,1491.5261
+Yarmouth,Unknown,2030,Status Quo,436.2153
+Yellowhead County,Unknown,2030,Status Quo,249.89777
+Yellowknife,Alberta,2030,Status Quo,1929.1405
+Yorkton,Unknown,2030,Status Quo,1255.3127
+Abbotsford-Mission,British Columbia,2026,Crisis Mode,1680.1317
+Alma,Unknown,2026,Crisis Mode,1010.01776
+Amos,Unknown,2026,Crisis Mode,1148.2821
+Baie-Comeau,Unknown,2026,Crisis Mode,1089.1748
+Barrie,Ontario,2026,Crisis Mode,1708.058
+Bathurst,Unknown,2026,Crisis Mode,1170.3203
+Bay Roberts,Unknown,2026,Crisis Mode,339.27112
+Bracebridge,Unknown,2026,Crisis Mode,1467.772
+Brandon,Unknown,2026,Crisis Mode,1255.3127
+Brantford,Ontario,2026,Crisis Mode,1567.5834
+Brighton,Unknown,2026,Crisis Mode,1304.5466
+Brock,Unknown,2026,Crisis Mode,1293.332
+Brockville,Unknown,2026,Crisis Mode,1276.0718
+Brooks,Unknown,2026,Crisis Mode,1286.5587
+Calgary,Alberta,2026,Crisis Mode,1770.8643
+Campbell River,Unknown,2026,Crisis Mode,1473.3531
+Campbellton,Unknown,2026,Crisis Mode,991.06805
+Campbellton,Unknown,2026,Crisis Mode,991.06805
+Campbellton,Unknown,2026,Crisis Mode,991.06805
+Camrose,Unknown,2026,Crisis Mode,1311.4237
+Canmore,Unknown,2026,Crisis Mode,2181.317
+Cape Breton,Unknown,2026,Crisis Mode,1255.3127
+Centre Wellington,Unknown,2026,Crisis Mode,1476.2128
+Charlottetown,Prince Edward Island,2026,Crisis Mode,1443.2059
+Chatham-Kent,Unknown,2026,Crisis Mode,1255.3127
+Chilliwack,British Columbia,2026,Crisis Mode,1584.2666
+Cobourg,Unknown,2026,Crisis Mode,1534.7122
+Cold Lake,Unknown,2026,Crisis Mode,1362.235
+Collingwood,Unknown,2026,Crisis Mode,1479.7427
+Corner Brook,Unknown,2026,Crisis Mode,1201.1399
+Cornwall,Unknown,2026,Crisis Mode,1255.3127
+Courtenay,Unknown,2026,Crisis Mode,1530.131
+Cowansville,Unknown,2026,Crisis Mode,1194.4015
+Cranbrook,Unknown,2026,Crisis Mode,1255.3127
+Dawson Creek,Unknown,2026,Crisis Mode,1260.7391
+Dolbeau-Mistassini,Unknown,2026,Crisis Mode,930.828
+Drummondville,Quebec,2026,Crisis Mode,1116.3425
+Duncan,Unknown,2026,Crisis Mode,1341.6156
+East Hants,Unknown,2026,Crisis Mode,439.8463
+Edmonton,Alberta,2026,Crisis Mode,1563.8727
+Edmundston,Unknown,2026,Crisis Mode,1069.7242
+Elliot Lake,Unknown,2026,Crisis Mode,1154.2982
+Essex,Unknown,2026,Crisis Mode,385.50574
+Estevan,Unknown,2026,Crisis Mode,1260.103
+Fort St. John,Unknown,2026,Crisis Mode,1267.1503
+Fredericton,Unknown,2026,Crisis Mode,1295.1604
+Gander,Unknown,2026,Crisis Mode,1187.092
+Gaspé,Unknown,2026,Crisis Mode,1106.089
+Gatineau,Quebec,2026,Crisis Mode,1222.4764
+Granby,Unknown,2026,Crisis Mode,1212.9504
+Grand Falls-Windsor,Unknown,2026,Crisis Mode,1158.5259
+Grande Prairie,Alberta,2026,Crisis Mode,1528.6759
+Gravenhurst,Unknown,2026,Crisis Mode,1429.2861
+Greater Napanee,Unknown,2026,Crisis Mode,1334.2258
+Sudbury,Ontario,2026,Crisis Mode,1550.278
+Sudbury,Ontario,2026,Crisis Mode,1550.278
+Guelph,Ontario,2026,Crisis Mode,1708.058
+Haldimand County,Unknown,2026,Crisis Mode,1265.9729
+Halifax,Nova Scotia,2026,Crisis Mode,1639.9905
+Hamilton,Ontario,2026,Crisis Mode,1603.6956
+Hawkesbury,Unknown,2026,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2026,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2026,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2026,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2026,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2026,Crisis Mode,1104.5438
+High River,Unknown,2026,Crisis Mode,1263.7733
+Huntsville,Unknown,2026,Crisis Mode,1462.8556
+Ingersoll,Unknown,2026,Crisis Mode,1255.3127
+Joliette,Unknown,2026,Crisis Mode,1159.6522
+Kamloops,British Columbia,2026,Crisis Mode,1635.0256
+Kawartha Lakes,Unknown,2026,Crisis Mode,1448.398
+Kelowna,British Columbia,2026,Crisis Mode,1867.8362
+Kentville,Unknown,2026,Crisis Mode,1242.2177
+Kincardine,Unknown,2026,Crisis Mode,1488.8481
+Kings Subdivision,Unknown,2026,Crisis Mode,1255.3127
+Kingston,Ontario,2026,Crisis Mode,1647.5148
+Kitchener,Ontario,2026,Crisis Mode,1708.058
+La Tuque,Unknown,2026,Crisis Mode,916.32007
+Lachute,Unknown,2026,Crisis Mode,1187.4594
+Lacombe,Unknown,2026,Crisis Mode,1388.8763
+Lambton Shores,Unknown,2026,Crisis Mode,1456.3546
+Leamington,Unknown,2026,Crisis Mode,509.93457
+Les Îles-de-la-Madeleine,Unknown,2026,Crisis Mode,1123.869
+Lethbridge,Alberta,2026,Crisis Mode,1504.41
+Lloydminster,Unknown,2026,Crisis Mode,1274.0344
+Lloydminster,Unknown,2026,Crisis Mode,1274.0344
+Lloydminster,Unknown,2026,Crisis Mode,1274.0344
+Lloydminster,Unknown,2026,Crisis Mode,1274.0344
+Lloydminster,Unknown,2026,Crisis Mode,1274.0344
+Lloydminster,Unknown,2026,Crisis Mode,1274.0344
+London,Ontario,2026,Crisis Mode,1567.5834
+Matane,Unknown,2026,Crisis Mode,985.0283
+Meaford,Unknown,2026,Crisis Mode,1280.0029
+Medicine Hat,Alberta,2026,Crisis Mode,1348.5782
+Midland,Unknown,2026,Crisis Mode,1410.5159
+Miramichi,Unknown,2026,Crisis Mode,1203.6986
+Mississippi Mills,Unknown,2026,Crisis Mode,511.36008
+Moncton,New Brunswick,2026,Crisis Mode,1430.1436
+Mont-Laurier,Unknown,2026,Crisis Mode,1026.3318
+Montmagny,Unknown,2026,Crisis Mode,1075.2257
+Montreal,Quebec,2026,Crisis Mode,1189.7004
+Montreal,Quebec,2026,Crisis Mode,1189.7004
+Moose Jaw,Unknown,2026,Crisis Mode,1264.0193
+Nanaimo,British Columbia,2026,Crisis Mode,1732.0752
+New Glasgow,Unknown,2026,Crisis Mode,1204.8853
+Norfolk,Unknown,2026,Crisis Mode,1213.1461
+North Battleford,Unknown,2026,Crisis Mode,1255.3127
+North Bay,Unknown,2026,Crisis Mode,1322.226
+North Grenville,Unknown,2026,Crisis Mode,506.14236
+North Perth,Unknown,2026,Crisis Mode,1255.3127
+Okotoks,Unknown,2026,Crisis Mode,1449.3873
+Orillia,Unknown,2026,Crisis Mode,1393.8663
+Oshawa,Ontario,2026,Crisis Mode,1708.1837
+Ottawa,Ontario,2026,Crisis Mode,1721.2728
+Ottawa,Ontario,2026,Crisis Mode,1721.2728
+Owen Sound,Unknown,2026,Crisis Mode,1259.3081
+Parksville,Unknown,2026,Crisis Mode,1463.355
+Pembroke,Unknown,2026,Crisis Mode,1255.3127
+Penticton,Unknown,2026,Crisis Mode,1460.837
+Petawawa,Unknown,2026,Crisis Mode,1255.3127
+Peterborough,Ontario,2026,Crisis Mode,1567.5834
+Port Alberni,Unknown,2026,Crisis Mode,1255.3127
+Port Hope,Unknown,2026,Crisis Mode,1554.2384
+Portage La Prairie,Unknown,2026,Crisis Mode,1291.7135
+Powell River,Unknown,2026,Crisis Mode,1255.3127
+Prince Albert,Unknown,2026,Crisis Mode,1255.3127
+Prince Edward,Unknown,2026,Crisis Mode,1330.2985
+Prince George,British Columbia,2026,Crisis Mode,1479.4735
+Prince Rupert,Unknown,2026,Crisis Mode,1280.3585
+Prévost,Unknown,2026,Crisis Mode,1255.3127
+Quebec City,Unknown,2026,Crisis Mode,1255.3127
+Queens,Unknown,2026,Crisis Mode,1227.3762
+Quesnel,Unknown,2026,Crisis Mode,1256.6768
+Quebec City,Unknown,2026,Crisis Mode,1255.3127
+Rawdon,Unknown,2026,Crisis Mode,1213.0925
+Red Deer,Alberta,2026,Crisis Mode,1536.4825
+Red Deer County,Unknown,2026,Crisis Mode,1620.3153
+Regina,Saskatchewan,2026,Crisis Mode,1541.5891
+Rimouski,Unknown,2026,Crisis Mode,1065.3336
+Rivière-du-Loup,Unknown,2026,Crisis Mode,1062.2645
+Roberval,Unknown,2026,Crisis Mode,458.373
+Rouyn-Noranda,Unknown,2026,Crisis Mode,1184.0972
+Saguenay,Quebec,2026,Crisis Mode,1083.4062
+Saint John,New Brunswick,2026,Crisis Mode,1386.1694
+Saint-Félicien,Unknown,2026,Crisis Mode,1043.6035
+Saint-Georges,Unknown,2026,Crisis Mode,955.0472
+Saint-Hyacinthe,Unknown,2026,Crisis Mode,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2026,Crisis Mode,516.9296
+Sainte- Sophie,Unknown,2026,Crisis Mode,1255.3127
+Sainte-Adèle,Unknown,2026,Crisis Mode,1220.4961
+Sainte-Marie,Unknown,2026,Crisis Mode,1076.921
+Salaberry-de-Valleyfield,Unknown,2026,Crisis Mode,1173.3044
+Salmon Arm,Unknown,2026,Crisis Mode,1255.3127
+Sarnia,Ontario,2026,Crisis Mode,1521.4431
+Saskatoon,Saskatchewan,2026,Crisis Mode,1541.5891
+Saugeen Shores,Unknown,2026,Crisis Mode,1601.5559
+Sault Ste. Marie,Ontario,2026,Crisis Mode,1402.6946
+Sault Ste. Marie,Ontario,2026,Crisis Mode,1402.6946
+Scugog,Unknown,2026,Crisis Mode,1425.0541
+Sept-Îles,Unknown,2026,Crisis Mode,1170.9464
+Shawinigan,Unknown,2026,Crisis Mode,995.0126
+Sherbrooke,Quebec,2026,Crisis Mode,1137.1421
+Sorel-Tracy,Unknown,2026,Crisis Mode,1068.7626
+Squamish,Unknown,2026,Crisis Mode,1909.0463
+St. Catharines-Niagara,Ontario,2026,Crisis Mode,1567.5834
+St. Johns,Newfoundland and Labrador,2026,Crisis Mode,1471.593
+Steinbach,Unknown,2026,Crisis Mode,1202.8228
+Stratford,Unknown,2026,Crisis Mode,1534.0951
+Strathmore,Unknown,2026,Crisis Mode,1314.7938
+Summerland,Unknown,2026,Crisis Mode,1583.9158
+Summerside,Unknown,2026,Crisis Mode,1255.3127
+Swift Current,Unknown,2026,Crisis Mode,1242.0751
+Sylvan Lake,Unknown,2026,Crisis Mode,1287.3402
+Temiskaming Shores,Unknown,2026,Crisis Mode,492.95328
+Terrace,Unknown,2026,Crisis Mode,1255.3127
+The Nation,Unknown,2026,Crisis Mode,1359.6724
+Thetford Mines,Unknown,2026,Crisis Mode,958.98975
+Thompson,Unknown,2026,Crisis Mode,1264.8496
+Thunder Bay,Ontario,2026,Crisis Mode,1563.9447
+Tillsonburg,Unknown,2026,Crisis Mode,1255.3127
+Timmins,Unknown,2026,Crisis Mode,1281.6783
+Toronto,Ontario,2026,Crisis Mode,1918.0736
+Trois-Rivières,Unknown,2026,Crisis Mode,1057.2432
+Truro,Unknown,2026,Crisis Mode,1255.3127
+Val-d'Or,Unknown,2026,Crisis Mode,1166.7319
+Vancouver,British Columbia,2026,Crisis Mode,2188.7678
+Vernon,Unknown,2026,Crisis Mode,1443.4896
+Victoria,British Columbia,2026,Crisis Mode,1926.0388
+Victoriaville,Unknown,2026,Crisis Mode,1084.3118
+West Grey,Unknown,2026,Crisis Mode,1255.3127
+West Nipissing,Unknown,2026,Crisis Mode,1255.3127
+Wetaskiwin,Unknown,2026,Crisis Mode,1293.7174
+Williams Lake,Unknown,2026,Crisis Mode,1354.6451
+Windsor,Ontario,2026,Crisis Mode,1481.89
+Winnipeg,Manitoba,2026,Crisis Mode,1543.4033
+Wood Buffalo,Alberta,2026,Crisis Mode,1545.7462
+Woodstock,Unknown,2026,Crisis Mode,1457.9534
+Yarmouth,Unknown,2026,Crisis Mode,436.2153
+Yellowhead County,Unknown,2026,Crisis Mode,249.89777
+Yellowknife,Alberta,2026,Crisis Mode,1934.4323
+Yorkton,Unknown,2026,Crisis Mode,1255.3127
+Abbotsford-Mission,British Columbia,2027,Crisis Mode,1680.1317
+Alma,Unknown,2027,Crisis Mode,1010.01776
+Amos,Unknown,2027,Crisis Mode,1148.2821
+Baie-Comeau,Unknown,2027,Crisis Mode,1089.1748
+Barrie,Ontario,2027,Crisis Mode,1708.058
+Bathurst,Unknown,2027,Crisis Mode,1170.3203
+Bay Roberts,Unknown,2027,Crisis Mode,339.27112
+Bracebridge,Unknown,2027,Crisis Mode,1467.772
+Brandon,Unknown,2027,Crisis Mode,1255.3127
+Brantford,Ontario,2027,Crisis Mode,1567.5834
+Brighton,Unknown,2027,Crisis Mode,1304.5466
+Brock,Unknown,2027,Crisis Mode,1293.332
+Brockville,Unknown,2027,Crisis Mode,1276.0718
+Brooks,Unknown,2027,Crisis Mode,1286.5587
+Calgary,Alberta,2027,Crisis Mode,1770.8643
+Campbell River,Unknown,2027,Crisis Mode,1473.3531
+Campbellton,Unknown,2027,Crisis Mode,991.06805
+Campbellton,Unknown,2027,Crisis Mode,991.06805
+Campbellton,Unknown,2027,Crisis Mode,991.06805
+Camrose,Unknown,2027,Crisis Mode,1311.4237
+Canmore,Unknown,2027,Crisis Mode,2181.317
+Cape Breton,Unknown,2027,Crisis Mode,1255.3127
+Centre Wellington,Unknown,2027,Crisis Mode,1476.2128
+Charlottetown,Prince Edward Island,2027,Crisis Mode,1443.2059
+Chatham-Kent,Unknown,2027,Crisis Mode,1255.3127
+Chilliwack,British Columbia,2027,Crisis Mode,1584.2666
+Cobourg,Unknown,2027,Crisis Mode,1534.7122
+Cold Lake,Unknown,2027,Crisis Mode,1362.235
+Collingwood,Unknown,2027,Crisis Mode,1479.7427
+Corner Brook,Unknown,2027,Crisis Mode,1201.1399
+Cornwall,Unknown,2027,Crisis Mode,1255.3127
+Courtenay,Unknown,2027,Crisis Mode,1530.131
+Cowansville,Unknown,2027,Crisis Mode,1194.4015
+Cranbrook,Unknown,2027,Crisis Mode,1255.3127
+Dawson Creek,Unknown,2027,Crisis Mode,1260.7391
+Dolbeau-Mistassini,Unknown,2027,Crisis Mode,930.828
+Drummondville,Quebec,2027,Crisis Mode,1116.3425
+Duncan,Unknown,2027,Crisis Mode,1341.6156
+East Hants,Unknown,2027,Crisis Mode,439.8463
+Edmonton,Alberta,2027,Crisis Mode,1563.8727
+Edmundston,Unknown,2027,Crisis Mode,1069.7242
+Elliot Lake,Unknown,2027,Crisis Mode,1154.2982
+Essex,Unknown,2027,Crisis Mode,385.50574
+Estevan,Unknown,2027,Crisis Mode,1260.103
+Fort St. John,Unknown,2027,Crisis Mode,1267.1503
+Fredericton,Unknown,2027,Crisis Mode,1295.1604
+Gander,Unknown,2027,Crisis Mode,1187.092
+Gaspé,Unknown,2027,Crisis Mode,1106.089
+Gatineau,Quebec,2027,Crisis Mode,1222.4764
+Granby,Unknown,2027,Crisis Mode,1212.9504
+Grand Falls-Windsor,Unknown,2027,Crisis Mode,1158.5259
+Grande Prairie,Alberta,2027,Crisis Mode,1528.6759
+Gravenhurst,Unknown,2027,Crisis Mode,1429.2861
+Greater Napanee,Unknown,2027,Crisis Mode,1334.2258
+Sudbury,Ontario,2027,Crisis Mode,1550.278
+Sudbury,Ontario,2027,Crisis Mode,1550.278
+Guelph,Ontario,2027,Crisis Mode,1708.058
+Haldimand County,Unknown,2027,Crisis Mode,1265.9729
+Halifax,Nova Scotia,2027,Crisis Mode,1639.9905
+Hamilton,Ontario,2027,Crisis Mode,1603.6956
+Hawkesbury,Unknown,2027,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2027,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2027,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2027,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2027,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2027,Crisis Mode,1104.5438
+High River,Unknown,2027,Crisis Mode,1263.7733
+Huntsville,Unknown,2027,Crisis Mode,1462.8556
+Ingersoll,Unknown,2027,Crisis Mode,1255.3127
+Joliette,Unknown,2027,Crisis Mode,1159.6522
+Kamloops,British Columbia,2027,Crisis Mode,1635.0256
+Kawartha Lakes,Unknown,2027,Crisis Mode,1448.398
+Kelowna,British Columbia,2027,Crisis Mode,1867.8362
+Kentville,Unknown,2027,Crisis Mode,1242.2177
+Kincardine,Unknown,2027,Crisis Mode,1488.8481
+Kings Subdivision,Unknown,2027,Crisis Mode,1255.3127
+Kingston,Ontario,2027,Crisis Mode,1647.5148
+Kitchener,Ontario,2027,Crisis Mode,1708.058
+La Tuque,Unknown,2027,Crisis Mode,916.32007
+Lachute,Unknown,2027,Crisis Mode,1187.4594
+Lacombe,Unknown,2027,Crisis Mode,1388.8763
+Lambton Shores,Unknown,2027,Crisis Mode,1456.3546
+Leamington,Unknown,2027,Crisis Mode,509.93457
+Les Îles-de-la-Madeleine,Unknown,2027,Crisis Mode,1123.869
+Lethbridge,Alberta,2027,Crisis Mode,1504.41
+Lloydminster,Unknown,2027,Crisis Mode,1274.0344
+Lloydminster,Unknown,2027,Crisis Mode,1274.0344
+Lloydminster,Unknown,2027,Crisis Mode,1274.0344
+Lloydminster,Unknown,2027,Crisis Mode,1274.0344
+Lloydminster,Unknown,2027,Crisis Mode,1274.0344
+Lloydminster,Unknown,2027,Crisis Mode,1274.0344
+London,Ontario,2027,Crisis Mode,1567.5834
+Matane,Unknown,2027,Crisis Mode,985.0283
+Meaford,Unknown,2027,Crisis Mode,1280.0029
+Medicine Hat,Alberta,2027,Crisis Mode,1348.5782
+Midland,Unknown,2027,Crisis Mode,1410.5159
+Miramichi,Unknown,2027,Crisis Mode,1203.6986
+Mississippi Mills,Unknown,2027,Crisis Mode,511.36008
+Moncton,New Brunswick,2027,Crisis Mode,1430.1436
+Mont-Laurier,Unknown,2027,Crisis Mode,1026.3318
+Montmagny,Unknown,2027,Crisis Mode,1075.2257
+Montreal,Quebec,2027,Crisis Mode,1189.7004
+Montreal,Quebec,2027,Crisis Mode,1189.7004
+Moose Jaw,Unknown,2027,Crisis Mode,1264.0193
+Nanaimo,British Columbia,2027,Crisis Mode,1732.0752
+New Glasgow,Unknown,2027,Crisis Mode,1204.8853
+Norfolk,Unknown,2027,Crisis Mode,1213.1461
+North Battleford,Unknown,2027,Crisis Mode,1255.3127
+North Bay,Unknown,2027,Crisis Mode,1322.226
+North Grenville,Unknown,2027,Crisis Mode,506.14236
+North Perth,Unknown,2027,Crisis Mode,1255.3127
+Okotoks,Unknown,2027,Crisis Mode,1449.3873
+Orillia,Unknown,2027,Crisis Mode,1393.8663
+Oshawa,Ontario,2027,Crisis Mode,1708.1837
+Ottawa,Ontario,2027,Crisis Mode,1721.2728
+Ottawa,Ontario,2027,Crisis Mode,1721.2728
+Owen Sound,Unknown,2027,Crisis Mode,1259.3081
+Parksville,Unknown,2027,Crisis Mode,1463.355
+Pembroke,Unknown,2027,Crisis Mode,1255.3127
+Penticton,Unknown,2027,Crisis Mode,1460.837
+Petawawa,Unknown,2027,Crisis Mode,1255.3127
+Peterborough,Ontario,2027,Crisis Mode,1567.5834
+Port Alberni,Unknown,2027,Crisis Mode,1255.3127
+Port Hope,Unknown,2027,Crisis Mode,1554.2384
+Portage La Prairie,Unknown,2027,Crisis Mode,1291.7135
+Powell River,Unknown,2027,Crisis Mode,1255.3127
+Prince Albert,Unknown,2027,Crisis Mode,1255.3127
+Prince Edward,Unknown,2027,Crisis Mode,1330.2985
+Prince George,British Columbia,2027,Crisis Mode,1479.4735
+Prince Rupert,Unknown,2027,Crisis Mode,1280.3585
+Prévost,Unknown,2027,Crisis Mode,1255.3127
+Quebec City,Unknown,2027,Crisis Mode,1255.3127
+Queens,Unknown,2027,Crisis Mode,1227.3762
+Quesnel,Unknown,2027,Crisis Mode,1256.6768
+Quebec City,Unknown,2027,Crisis Mode,1255.3127
+Rawdon,Unknown,2027,Crisis Mode,1213.0925
+Red Deer,Alberta,2027,Crisis Mode,1536.4825
+Red Deer County,Unknown,2027,Crisis Mode,1620.3153
+Regina,Saskatchewan,2027,Crisis Mode,1541.5891
+Rimouski,Unknown,2027,Crisis Mode,1065.3336
+Rivière-du-Loup,Unknown,2027,Crisis Mode,1062.2645
+Roberval,Unknown,2027,Crisis Mode,458.373
+Rouyn-Noranda,Unknown,2027,Crisis Mode,1184.0972
+Saguenay,Quebec,2027,Crisis Mode,1083.4062
+Saint John,New Brunswick,2027,Crisis Mode,1386.1694
+Saint-Félicien,Unknown,2027,Crisis Mode,1043.6035
+Saint-Georges,Unknown,2027,Crisis Mode,955.0472
+Saint-Hyacinthe,Unknown,2027,Crisis Mode,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2027,Crisis Mode,516.9296
+Sainte- Sophie,Unknown,2027,Crisis Mode,1255.3127
+Sainte-Adèle,Unknown,2027,Crisis Mode,1220.4961
+Sainte-Marie,Unknown,2027,Crisis Mode,1076.921
+Salaberry-de-Valleyfield,Unknown,2027,Crisis Mode,1173.3044
+Salmon Arm,Unknown,2027,Crisis Mode,1255.3127
+Sarnia,Ontario,2027,Crisis Mode,1521.4431
+Saskatoon,Saskatchewan,2027,Crisis Mode,1541.5891
+Saugeen Shores,Unknown,2027,Crisis Mode,1601.5559
+Sault Ste. Marie,Ontario,2027,Crisis Mode,1402.6946
+Sault Ste. Marie,Ontario,2027,Crisis Mode,1402.6946
+Scugog,Unknown,2027,Crisis Mode,1425.0541
+Sept-Îles,Unknown,2027,Crisis Mode,1170.9464
+Shawinigan,Unknown,2027,Crisis Mode,995.0126
+Sherbrooke,Quebec,2027,Crisis Mode,1137.1421
+Sorel-Tracy,Unknown,2027,Crisis Mode,1068.7626
+Squamish,Unknown,2027,Crisis Mode,1909.0463
+St. Catharines-Niagara,Ontario,2027,Crisis Mode,1567.5834
+St. Johns,Newfoundland and Labrador,2027,Crisis Mode,1471.593
+Steinbach,Unknown,2027,Crisis Mode,1202.8228
+Stratford,Unknown,2027,Crisis Mode,1534.0951
+Strathmore,Unknown,2027,Crisis Mode,1314.7938
+Summerland,Unknown,2027,Crisis Mode,1583.9158
+Summerside,Unknown,2027,Crisis Mode,1255.3127
+Swift Current,Unknown,2027,Crisis Mode,1242.0751
+Sylvan Lake,Unknown,2027,Crisis Mode,1287.3402
+Temiskaming Shores,Unknown,2027,Crisis Mode,492.95328
+Terrace,Unknown,2027,Crisis Mode,1255.3127
+The Nation,Unknown,2027,Crisis Mode,1359.6724
+Thetford Mines,Unknown,2027,Crisis Mode,958.98975
+Thompson,Unknown,2027,Crisis Mode,1264.8496
+Thunder Bay,Ontario,2027,Crisis Mode,1563.9447
+Tillsonburg,Unknown,2027,Crisis Mode,1255.3127
+Timmins,Unknown,2027,Crisis Mode,1281.6783
+Toronto,Ontario,2027,Crisis Mode,1918.0736
+Trois-Rivières,Unknown,2027,Crisis Mode,1057.2432
+Truro,Unknown,2027,Crisis Mode,1255.3127
+Val-d'Or,Unknown,2027,Crisis Mode,1166.7319
+Vancouver,British Columbia,2027,Crisis Mode,2188.7678
+Vernon,Unknown,2027,Crisis Mode,1443.4896
+Victoria,British Columbia,2027,Crisis Mode,1926.0388
+Victoriaville,Unknown,2027,Crisis Mode,1084.3118
+West Grey,Unknown,2027,Crisis Mode,1255.3127
+West Nipissing,Unknown,2027,Crisis Mode,1255.3127
+Wetaskiwin,Unknown,2027,Crisis Mode,1293.7174
+Williams Lake,Unknown,2027,Crisis Mode,1354.6451
+Windsor,Ontario,2027,Crisis Mode,1481.89
+Winnipeg,Manitoba,2027,Crisis Mode,1543.4033
+Wood Buffalo,Alberta,2027,Crisis Mode,1545.7462
+Woodstock,Unknown,2027,Crisis Mode,1457.9534
+Yarmouth,Unknown,2027,Crisis Mode,436.2153
+Yellowhead County,Unknown,2027,Crisis Mode,249.89777
+Yellowknife,Alberta,2027,Crisis Mode,1934.4323
+Yorkton,Unknown,2027,Crisis Mode,1255.3127
+Abbotsford-Mission,British Columbia,2028,Crisis Mode,1680.1317
+Alma,Unknown,2028,Crisis Mode,1010.01776
+Amos,Unknown,2028,Crisis Mode,1148.2821
+Baie-Comeau,Unknown,2028,Crisis Mode,1089.1748
+Barrie,Ontario,2028,Crisis Mode,1708.058
+Bathurst,Unknown,2028,Crisis Mode,1170.3203
+Bay Roberts,Unknown,2028,Crisis Mode,339.27112
+Bracebridge,Unknown,2028,Crisis Mode,1467.772
+Brandon,Unknown,2028,Crisis Mode,1255.3127
+Brantford,Ontario,2028,Crisis Mode,1567.5834
+Brighton,Unknown,2028,Crisis Mode,1304.5466
+Brock,Unknown,2028,Crisis Mode,1293.332
+Brockville,Unknown,2028,Crisis Mode,1276.0718
+Brooks,Unknown,2028,Crisis Mode,1286.5587
+Calgary,Alberta,2028,Crisis Mode,1770.8643
+Campbell River,Unknown,2028,Crisis Mode,1473.3531
+Campbellton,Unknown,2028,Crisis Mode,991.06805
+Campbellton,Unknown,2028,Crisis Mode,991.06805
+Campbellton,Unknown,2028,Crisis Mode,991.06805
+Camrose,Unknown,2028,Crisis Mode,1311.4237
+Canmore,Unknown,2028,Crisis Mode,2181.317
+Cape Breton,Unknown,2028,Crisis Mode,1255.3127
+Centre Wellington,Unknown,2028,Crisis Mode,1476.2128
+Charlottetown,Prince Edward Island,2028,Crisis Mode,1443.2059
+Chatham-Kent,Unknown,2028,Crisis Mode,1255.3127
+Chilliwack,British Columbia,2028,Crisis Mode,1584.2666
+Cobourg,Unknown,2028,Crisis Mode,1534.7122
+Cold Lake,Unknown,2028,Crisis Mode,1362.235
+Collingwood,Unknown,2028,Crisis Mode,1479.7427
+Corner Brook,Unknown,2028,Crisis Mode,1201.1399
+Cornwall,Unknown,2028,Crisis Mode,1255.3127
+Courtenay,Unknown,2028,Crisis Mode,1530.131
+Cowansville,Unknown,2028,Crisis Mode,1194.4015
+Cranbrook,Unknown,2028,Crisis Mode,1255.3127
+Dawson Creek,Unknown,2028,Crisis Mode,1260.7391
+Dolbeau-Mistassini,Unknown,2028,Crisis Mode,930.828
+Drummondville,Quebec,2028,Crisis Mode,1116.3425
+Duncan,Unknown,2028,Crisis Mode,1341.6156
+East Hants,Unknown,2028,Crisis Mode,439.8463
+Edmonton,Alberta,2028,Crisis Mode,1563.8727
+Edmundston,Unknown,2028,Crisis Mode,1069.7242
+Elliot Lake,Unknown,2028,Crisis Mode,1154.2982
+Essex,Unknown,2028,Crisis Mode,385.50574
+Estevan,Unknown,2028,Crisis Mode,1260.103
+Fort St. John,Unknown,2028,Crisis Mode,1267.1503
+Fredericton,Unknown,2028,Crisis Mode,1295.1604
+Gander,Unknown,2028,Crisis Mode,1187.092
+Gaspé,Unknown,2028,Crisis Mode,1106.089
+Gatineau,Quebec,2028,Crisis Mode,1222.4764
+Granby,Unknown,2028,Crisis Mode,1212.9504
+Grand Falls-Windsor,Unknown,2028,Crisis Mode,1158.5259
+Grande Prairie,Alberta,2028,Crisis Mode,1528.6759
+Gravenhurst,Unknown,2028,Crisis Mode,1429.2861
+Greater Napanee,Unknown,2028,Crisis Mode,1334.2258
+Sudbury,Ontario,2028,Crisis Mode,1550.278
+Sudbury,Ontario,2028,Crisis Mode,1550.278
+Guelph,Ontario,2028,Crisis Mode,1708.058
+Haldimand County,Unknown,2028,Crisis Mode,1265.9729
+Halifax,Nova Scotia,2028,Crisis Mode,1639.9905
+Hamilton,Ontario,2028,Crisis Mode,1603.6956
+Hawkesbury,Unknown,2028,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2028,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2028,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2028,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2028,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2028,Crisis Mode,1104.5438
+High River,Unknown,2028,Crisis Mode,1263.7733
+Huntsville,Unknown,2028,Crisis Mode,1462.8556
+Ingersoll,Unknown,2028,Crisis Mode,1255.3127
+Joliette,Unknown,2028,Crisis Mode,1159.6522
+Kamloops,British Columbia,2028,Crisis Mode,1635.0256
+Kawartha Lakes,Unknown,2028,Crisis Mode,1448.398
+Kelowna,British Columbia,2028,Crisis Mode,1867.8362
+Kentville,Unknown,2028,Crisis Mode,1242.2177
+Kincardine,Unknown,2028,Crisis Mode,1488.8481
+Kings Subdivision,Unknown,2028,Crisis Mode,1255.3127
+Kingston,Ontario,2028,Crisis Mode,1647.5148
+Kitchener,Ontario,2028,Crisis Mode,1708.058
+La Tuque,Unknown,2028,Crisis Mode,916.32007
+Lachute,Unknown,2028,Crisis Mode,1187.4594
+Lacombe,Unknown,2028,Crisis Mode,1388.8763
+Lambton Shores,Unknown,2028,Crisis Mode,1456.3546
+Leamington,Unknown,2028,Crisis Mode,509.93457
+Les Îles-de-la-Madeleine,Unknown,2028,Crisis Mode,1123.869
+Lethbridge,Alberta,2028,Crisis Mode,1504.41
+Lloydminster,Unknown,2028,Crisis Mode,1274.0344
+Lloydminster,Unknown,2028,Crisis Mode,1274.0344
+Lloydminster,Unknown,2028,Crisis Mode,1274.0344
+Lloydminster,Unknown,2028,Crisis Mode,1274.0344
+Lloydminster,Unknown,2028,Crisis Mode,1274.0344
+Lloydminster,Unknown,2028,Crisis Mode,1274.0344
+London,Ontario,2028,Crisis Mode,1567.5834
+Matane,Unknown,2028,Crisis Mode,985.0283
+Meaford,Unknown,2028,Crisis Mode,1280.0029
+Medicine Hat,Alberta,2028,Crisis Mode,1348.5782
+Midland,Unknown,2028,Crisis Mode,1410.5159
+Miramichi,Unknown,2028,Crisis Mode,1203.6986
+Mississippi Mills,Unknown,2028,Crisis Mode,511.36008
+Moncton,New Brunswick,2028,Crisis Mode,1430.1436
+Mont-Laurier,Unknown,2028,Crisis Mode,1026.3318
+Montmagny,Unknown,2028,Crisis Mode,1075.2257
+Montreal,Quebec,2028,Crisis Mode,1189.7004
+Montreal,Quebec,2028,Crisis Mode,1189.7004
+Moose Jaw,Unknown,2028,Crisis Mode,1264.0193
+Nanaimo,British Columbia,2028,Crisis Mode,1732.0752
+New Glasgow,Unknown,2028,Crisis Mode,1204.8853
+Norfolk,Unknown,2028,Crisis Mode,1213.1461
+North Battleford,Unknown,2028,Crisis Mode,1255.3127
+North Bay,Unknown,2028,Crisis Mode,1322.226
+North Grenville,Unknown,2028,Crisis Mode,506.14236
+North Perth,Unknown,2028,Crisis Mode,1255.3127
+Okotoks,Unknown,2028,Crisis Mode,1449.3873
+Orillia,Unknown,2028,Crisis Mode,1393.8663
+Oshawa,Ontario,2028,Crisis Mode,1708.1837
+Ottawa,Ontario,2028,Crisis Mode,1721.2728
+Ottawa,Ontario,2028,Crisis Mode,1721.2728
+Owen Sound,Unknown,2028,Crisis Mode,1259.3081
+Parksville,Unknown,2028,Crisis Mode,1463.355
+Pembroke,Unknown,2028,Crisis Mode,1255.3127
+Penticton,Unknown,2028,Crisis Mode,1460.837
+Petawawa,Unknown,2028,Crisis Mode,1255.3127
+Peterborough,Ontario,2028,Crisis Mode,1567.5834
+Port Alberni,Unknown,2028,Crisis Mode,1255.3127
+Port Hope,Unknown,2028,Crisis Mode,1554.2384
+Portage La Prairie,Unknown,2028,Crisis Mode,1291.7135
+Powell River,Unknown,2028,Crisis Mode,1255.3127
+Prince Albert,Unknown,2028,Crisis Mode,1255.3127
+Prince Edward,Unknown,2028,Crisis Mode,1330.2985
+Prince George,British Columbia,2028,Crisis Mode,1479.4735
+Prince Rupert,Unknown,2028,Crisis Mode,1280.3585
+Prévost,Unknown,2028,Crisis Mode,1255.3127
+Quebec City,Unknown,2028,Crisis Mode,1255.3127
+Queens,Unknown,2028,Crisis Mode,1227.3762
+Quesnel,Unknown,2028,Crisis Mode,1256.6768
+Quebec City,Unknown,2028,Crisis Mode,1255.3127
+Rawdon,Unknown,2028,Crisis Mode,1213.0925
+Red Deer,Alberta,2028,Crisis Mode,1536.4825
+Red Deer County,Unknown,2028,Crisis Mode,1620.3153
+Regina,Saskatchewan,2028,Crisis Mode,1541.5891
+Rimouski,Unknown,2028,Crisis Mode,1065.3336
+Rivière-du-Loup,Unknown,2028,Crisis Mode,1062.2645
+Roberval,Unknown,2028,Crisis Mode,458.373
+Rouyn-Noranda,Unknown,2028,Crisis Mode,1184.0972
+Saguenay,Quebec,2028,Crisis Mode,1083.4062
+Saint John,New Brunswick,2028,Crisis Mode,1386.1694
+Saint-Félicien,Unknown,2028,Crisis Mode,1043.6035
+Saint-Georges,Unknown,2028,Crisis Mode,955.0472
+Saint-Hyacinthe,Unknown,2028,Crisis Mode,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2028,Crisis Mode,516.9296
+Sainte- Sophie,Unknown,2028,Crisis Mode,1255.3127
+Sainte-Adèle,Unknown,2028,Crisis Mode,1220.4961
+Sainte-Marie,Unknown,2028,Crisis Mode,1076.921
+Salaberry-de-Valleyfield,Unknown,2028,Crisis Mode,1173.3044
+Salmon Arm,Unknown,2028,Crisis Mode,1255.3127
+Sarnia,Ontario,2028,Crisis Mode,1521.4431
+Saskatoon,Saskatchewan,2028,Crisis Mode,1541.5891
+Saugeen Shores,Unknown,2028,Crisis Mode,1601.5559
+Sault Ste. Marie,Ontario,2028,Crisis Mode,1402.6946
+Sault Ste. Marie,Ontario,2028,Crisis Mode,1402.6946
+Scugog,Unknown,2028,Crisis Mode,1425.0541
+Sept-Îles,Unknown,2028,Crisis Mode,1170.9464
+Shawinigan,Unknown,2028,Crisis Mode,995.0126
+Sherbrooke,Quebec,2028,Crisis Mode,1137.1421
+Sorel-Tracy,Unknown,2028,Crisis Mode,1068.7626
+Squamish,Unknown,2028,Crisis Mode,1909.0463
+St. Catharines-Niagara,Ontario,2028,Crisis Mode,1567.5834
+St. Johns,Newfoundland and Labrador,2028,Crisis Mode,1471.593
+Steinbach,Unknown,2028,Crisis Mode,1202.8228
+Stratford,Unknown,2028,Crisis Mode,1534.0951
+Strathmore,Unknown,2028,Crisis Mode,1314.7938
+Summerland,Unknown,2028,Crisis Mode,1583.9158
+Summerside,Unknown,2028,Crisis Mode,1255.3127
+Swift Current,Unknown,2028,Crisis Mode,1242.0751
+Sylvan Lake,Unknown,2028,Crisis Mode,1287.3402
+Temiskaming Shores,Unknown,2028,Crisis Mode,492.95328
+Terrace,Unknown,2028,Crisis Mode,1255.3127
+The Nation,Unknown,2028,Crisis Mode,1359.6724
+Thetford Mines,Unknown,2028,Crisis Mode,958.98975
+Thompson,Unknown,2028,Crisis Mode,1264.8496
+Thunder Bay,Ontario,2028,Crisis Mode,1563.9447
+Tillsonburg,Unknown,2028,Crisis Mode,1255.3127
+Timmins,Unknown,2028,Crisis Mode,1281.6783
+Toronto,Ontario,2028,Crisis Mode,1918.0736
+Trois-Rivières,Unknown,2028,Crisis Mode,1057.2432
+Truro,Unknown,2028,Crisis Mode,1255.3127
+Val-d'Or,Unknown,2028,Crisis Mode,1166.7319
+Vancouver,British Columbia,2028,Crisis Mode,2188.7678
+Vernon,Unknown,2028,Crisis Mode,1443.4896
+Victoria,British Columbia,2028,Crisis Mode,1926.0388
+Victoriaville,Unknown,2028,Crisis Mode,1084.3118
+West Grey,Unknown,2028,Crisis Mode,1255.3127
+West Nipissing,Unknown,2028,Crisis Mode,1255.3127
+Wetaskiwin,Unknown,2028,Crisis Mode,1293.7174
+Williams Lake,Unknown,2028,Crisis Mode,1354.6451
+Windsor,Ontario,2028,Crisis Mode,1481.89
+Winnipeg,Manitoba,2028,Crisis Mode,1543.4033
+Wood Buffalo,Alberta,2028,Crisis Mode,1545.7462
+Woodstock,Unknown,2028,Crisis Mode,1457.9534
+Yarmouth,Unknown,2028,Crisis Mode,436.2153
+Yellowhead County,Unknown,2028,Crisis Mode,249.89777
+Yellowknife,Alberta,2028,Crisis Mode,1934.4323
+Yorkton,Unknown,2028,Crisis Mode,1255.3127
+Abbotsford-Mission,British Columbia,2029,Crisis Mode,1680.1317
+Alma,Unknown,2029,Crisis Mode,1010.01776
+Amos,Unknown,2029,Crisis Mode,1148.2821
+Baie-Comeau,Unknown,2029,Crisis Mode,1089.1748
+Barrie,Ontario,2029,Crisis Mode,1708.058
+Bathurst,Unknown,2029,Crisis Mode,1170.3203
+Bay Roberts,Unknown,2029,Crisis Mode,339.27112
+Bracebridge,Unknown,2029,Crisis Mode,1467.772
+Brandon,Unknown,2029,Crisis Mode,1255.3127
+Brantford,Ontario,2029,Crisis Mode,1567.5834
+Brighton,Unknown,2029,Crisis Mode,1304.5466
+Brock,Unknown,2029,Crisis Mode,1293.332
+Brockville,Unknown,2029,Crisis Mode,1276.0718
+Brooks,Unknown,2029,Crisis Mode,1286.5587
+Calgary,Alberta,2029,Crisis Mode,1770.8643
+Campbell River,Unknown,2029,Crisis Mode,1473.3531
+Campbellton,Unknown,2029,Crisis Mode,991.06805
+Campbellton,Unknown,2029,Crisis Mode,991.06805
+Campbellton,Unknown,2029,Crisis Mode,991.06805
+Camrose,Unknown,2029,Crisis Mode,1311.4237
+Canmore,Unknown,2029,Crisis Mode,2181.317
+Cape Breton,Unknown,2029,Crisis Mode,1255.3127
+Centre Wellington,Unknown,2029,Crisis Mode,1476.2128
+Charlottetown,Prince Edward Island,2029,Crisis Mode,1443.2059
+Chatham-Kent,Unknown,2029,Crisis Mode,1255.3127
+Chilliwack,British Columbia,2029,Crisis Mode,1584.2666
+Cobourg,Unknown,2029,Crisis Mode,1534.7122
+Cold Lake,Unknown,2029,Crisis Mode,1362.235
+Collingwood,Unknown,2029,Crisis Mode,1479.7427
+Corner Brook,Unknown,2029,Crisis Mode,1201.1399
+Cornwall,Unknown,2029,Crisis Mode,1255.3127
+Courtenay,Unknown,2029,Crisis Mode,1530.131
+Cowansville,Unknown,2029,Crisis Mode,1194.4015
+Cranbrook,Unknown,2029,Crisis Mode,1255.3127
+Dawson Creek,Unknown,2029,Crisis Mode,1260.7391
+Dolbeau-Mistassini,Unknown,2029,Crisis Mode,930.828
+Drummondville,Quebec,2029,Crisis Mode,1116.3425
+Duncan,Unknown,2029,Crisis Mode,1341.6156
+East Hants,Unknown,2029,Crisis Mode,439.8463
+Edmonton,Alberta,2029,Crisis Mode,1563.8727
+Edmundston,Unknown,2029,Crisis Mode,1069.7242
+Elliot Lake,Unknown,2029,Crisis Mode,1154.2982
+Essex,Unknown,2029,Crisis Mode,385.50574
+Estevan,Unknown,2029,Crisis Mode,1260.103
+Fort St. John,Unknown,2029,Crisis Mode,1267.1503
+Fredericton,Unknown,2029,Crisis Mode,1295.1604
+Gander,Unknown,2029,Crisis Mode,1187.092
+Gaspé,Unknown,2029,Crisis Mode,1106.089
+Gatineau,Quebec,2029,Crisis Mode,1222.4764
+Granby,Unknown,2029,Crisis Mode,1212.9504
+Grand Falls-Windsor,Unknown,2029,Crisis Mode,1158.5259
+Grande Prairie,Alberta,2029,Crisis Mode,1528.6759
+Gravenhurst,Unknown,2029,Crisis Mode,1429.2861
+Greater Napanee,Unknown,2029,Crisis Mode,1334.2258
+Sudbury,Ontario,2029,Crisis Mode,1550.278
+Sudbury,Ontario,2029,Crisis Mode,1550.278
+Guelph,Ontario,2029,Crisis Mode,1708.058
+Haldimand County,Unknown,2029,Crisis Mode,1265.9729
+Halifax,Nova Scotia,2029,Crisis Mode,1639.9905
+Hamilton,Ontario,2029,Crisis Mode,1603.6956
+Hawkesbury,Unknown,2029,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2029,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2029,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2029,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2029,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2029,Crisis Mode,1104.5438
+High River,Unknown,2029,Crisis Mode,1263.7733
+Huntsville,Unknown,2029,Crisis Mode,1462.8556
+Ingersoll,Unknown,2029,Crisis Mode,1255.3127
+Joliette,Unknown,2029,Crisis Mode,1159.6522
+Kamloops,British Columbia,2029,Crisis Mode,1635.0256
+Kawartha Lakes,Unknown,2029,Crisis Mode,1448.398
+Kelowna,British Columbia,2029,Crisis Mode,1867.8362
+Kentville,Unknown,2029,Crisis Mode,1242.2177
+Kincardine,Unknown,2029,Crisis Mode,1488.8481
+Kings Subdivision,Unknown,2029,Crisis Mode,1255.3127
+Kingston,Ontario,2029,Crisis Mode,1647.5148
+Kitchener,Ontario,2029,Crisis Mode,1708.058
+La Tuque,Unknown,2029,Crisis Mode,916.32007
+Lachute,Unknown,2029,Crisis Mode,1187.4594
+Lacombe,Unknown,2029,Crisis Mode,1388.8763
+Lambton Shores,Unknown,2029,Crisis Mode,1456.3546
+Leamington,Unknown,2029,Crisis Mode,509.93457
+Les Îles-de-la-Madeleine,Unknown,2029,Crisis Mode,1123.869
+Lethbridge,Alberta,2029,Crisis Mode,1504.41
+Lloydminster,Unknown,2029,Crisis Mode,1274.0344
+Lloydminster,Unknown,2029,Crisis Mode,1274.0344
+Lloydminster,Unknown,2029,Crisis Mode,1274.0344
+Lloydminster,Unknown,2029,Crisis Mode,1274.0344
+Lloydminster,Unknown,2029,Crisis Mode,1274.0344
+Lloydminster,Unknown,2029,Crisis Mode,1274.0344
+London,Ontario,2029,Crisis Mode,1567.5834
+Matane,Unknown,2029,Crisis Mode,985.0283
+Meaford,Unknown,2029,Crisis Mode,1280.0029
+Medicine Hat,Alberta,2029,Crisis Mode,1348.5782
+Midland,Unknown,2029,Crisis Mode,1410.5159
+Miramichi,Unknown,2029,Crisis Mode,1203.6986
+Mississippi Mills,Unknown,2029,Crisis Mode,511.36008
+Moncton,New Brunswick,2029,Crisis Mode,1430.1436
+Mont-Laurier,Unknown,2029,Crisis Mode,1026.3318
+Montmagny,Unknown,2029,Crisis Mode,1075.2257
+Montreal,Quebec,2029,Crisis Mode,1189.7004
+Montreal,Quebec,2029,Crisis Mode,1189.7004
+Moose Jaw,Unknown,2029,Crisis Mode,1264.0193
+Nanaimo,British Columbia,2029,Crisis Mode,1732.0752
+New Glasgow,Unknown,2029,Crisis Mode,1204.8853
+Norfolk,Unknown,2029,Crisis Mode,1213.1461
+North Battleford,Unknown,2029,Crisis Mode,1255.3127
+North Bay,Unknown,2029,Crisis Mode,1322.226
+North Grenville,Unknown,2029,Crisis Mode,506.14236
+North Perth,Unknown,2029,Crisis Mode,1255.3127
+Okotoks,Unknown,2029,Crisis Mode,1449.3873
+Orillia,Unknown,2029,Crisis Mode,1393.8663
+Oshawa,Ontario,2029,Crisis Mode,1708.1837
+Ottawa,Ontario,2029,Crisis Mode,1721.2728
+Ottawa,Ontario,2029,Crisis Mode,1721.2728
+Owen Sound,Unknown,2029,Crisis Mode,1259.3081
+Parksville,Unknown,2029,Crisis Mode,1463.355
+Pembroke,Unknown,2029,Crisis Mode,1255.3127
+Penticton,Unknown,2029,Crisis Mode,1460.837
+Petawawa,Unknown,2029,Crisis Mode,1255.3127
+Peterborough,Ontario,2029,Crisis Mode,1567.5834
+Port Alberni,Unknown,2029,Crisis Mode,1255.3127
+Port Hope,Unknown,2029,Crisis Mode,1554.2384
+Portage La Prairie,Unknown,2029,Crisis Mode,1291.7135
+Powell River,Unknown,2029,Crisis Mode,1255.3127
+Prince Albert,Unknown,2029,Crisis Mode,1255.3127
+Prince Edward,Unknown,2029,Crisis Mode,1330.2985
+Prince George,British Columbia,2029,Crisis Mode,1479.4735
+Prince Rupert,Unknown,2029,Crisis Mode,1280.3585
+Prévost,Unknown,2029,Crisis Mode,1255.3127
+Quebec City,Unknown,2029,Crisis Mode,1255.3127
+Queens,Unknown,2029,Crisis Mode,1227.3762
+Quesnel,Unknown,2029,Crisis Mode,1256.6768
+Quebec City,Unknown,2029,Crisis Mode,1255.3127
+Rawdon,Unknown,2029,Crisis Mode,1213.0925
+Red Deer,Alberta,2029,Crisis Mode,1536.4825
+Red Deer County,Unknown,2029,Crisis Mode,1620.3153
+Regina,Saskatchewan,2029,Crisis Mode,1541.5891
+Rimouski,Unknown,2029,Crisis Mode,1065.3336
+Rivière-du-Loup,Unknown,2029,Crisis Mode,1062.2645
+Roberval,Unknown,2029,Crisis Mode,458.373
+Rouyn-Noranda,Unknown,2029,Crisis Mode,1184.0972
+Saguenay,Quebec,2029,Crisis Mode,1083.4062
+Saint John,New Brunswick,2029,Crisis Mode,1386.1694
+Saint-Félicien,Unknown,2029,Crisis Mode,1043.6035
+Saint-Georges,Unknown,2029,Crisis Mode,955.0472
+Saint-Hyacinthe,Unknown,2029,Crisis Mode,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2029,Crisis Mode,516.9296
+Sainte- Sophie,Unknown,2029,Crisis Mode,1255.3127
+Sainte-Adèle,Unknown,2029,Crisis Mode,1220.4961
+Sainte-Marie,Unknown,2029,Crisis Mode,1076.921
+Salaberry-de-Valleyfield,Unknown,2029,Crisis Mode,1173.3044
+Salmon Arm,Unknown,2029,Crisis Mode,1255.3127
+Sarnia,Ontario,2029,Crisis Mode,1521.4431
+Saskatoon,Saskatchewan,2029,Crisis Mode,1541.5891
+Saugeen Shores,Unknown,2029,Crisis Mode,1601.5559
+Sault Ste. Marie,Ontario,2029,Crisis Mode,1402.6946
+Sault Ste. Marie,Ontario,2029,Crisis Mode,1402.6946
+Scugog,Unknown,2029,Crisis Mode,1425.0541
+Sept-Îles,Unknown,2029,Crisis Mode,1170.9464
+Shawinigan,Unknown,2029,Crisis Mode,995.0126
+Sherbrooke,Quebec,2029,Crisis Mode,1137.1421
+Sorel-Tracy,Unknown,2029,Crisis Mode,1068.7626
+Squamish,Unknown,2029,Crisis Mode,1909.0463
+St. Catharines-Niagara,Ontario,2029,Crisis Mode,1567.5834
+St. Johns,Newfoundland and Labrador,2029,Crisis Mode,1471.593
+Steinbach,Unknown,2029,Crisis Mode,1202.8228
+Stratford,Unknown,2029,Crisis Mode,1534.0951
+Strathmore,Unknown,2029,Crisis Mode,1314.7938
+Summerland,Unknown,2029,Crisis Mode,1583.9158
+Summerside,Unknown,2029,Crisis Mode,1255.3127
+Swift Current,Unknown,2029,Crisis Mode,1242.0751
+Sylvan Lake,Unknown,2029,Crisis Mode,1287.3402
+Temiskaming Shores,Unknown,2029,Crisis Mode,492.95328
+Terrace,Unknown,2029,Crisis Mode,1255.3127
+The Nation,Unknown,2029,Crisis Mode,1359.6724
+Thetford Mines,Unknown,2029,Crisis Mode,958.98975
+Thompson,Unknown,2029,Crisis Mode,1264.8496
+Thunder Bay,Ontario,2029,Crisis Mode,1563.9447
+Tillsonburg,Unknown,2029,Crisis Mode,1255.3127
+Timmins,Unknown,2029,Crisis Mode,1281.6783
+Toronto,Ontario,2029,Crisis Mode,1918.0736
+Trois-Rivières,Unknown,2029,Crisis Mode,1057.2432
+Truro,Unknown,2029,Crisis Mode,1255.3127
+Val-d'Or,Unknown,2029,Crisis Mode,1166.7319
+Vancouver,British Columbia,2029,Crisis Mode,2188.7678
+Vernon,Unknown,2029,Crisis Mode,1443.4896
+Victoria,British Columbia,2029,Crisis Mode,1926.0388
+Victoriaville,Unknown,2029,Crisis Mode,1084.3118
+West Grey,Unknown,2029,Crisis Mode,1255.3127
+West Nipissing,Unknown,2029,Crisis Mode,1255.3127
+Wetaskiwin,Unknown,2029,Crisis Mode,1293.7174
+Williams Lake,Unknown,2029,Crisis Mode,1354.6451
+Windsor,Ontario,2029,Crisis Mode,1481.89
+Winnipeg,Manitoba,2029,Crisis Mode,1543.4033
+Wood Buffalo,Alberta,2029,Crisis Mode,1545.7462
+Woodstock,Unknown,2029,Crisis Mode,1457.9534
+Yarmouth,Unknown,2029,Crisis Mode,436.2153
+Yellowhead County,Unknown,2029,Crisis Mode,249.89777
+Yellowknife,Alberta,2029,Crisis Mode,1934.4323
+Yorkton,Unknown,2029,Crisis Mode,1255.3127
+Abbotsford-Mission,British Columbia,2030,Crisis Mode,1680.1317
+Alma,Unknown,2030,Crisis Mode,1010.01776
+Amos,Unknown,2030,Crisis Mode,1148.2821
+Baie-Comeau,Unknown,2030,Crisis Mode,1089.1748
+Barrie,Ontario,2030,Crisis Mode,1708.058
+Bathurst,Unknown,2030,Crisis Mode,1170.3203
+Bay Roberts,Unknown,2030,Crisis Mode,339.27112
+Bracebridge,Unknown,2030,Crisis Mode,1467.772
+Brandon,Unknown,2030,Crisis Mode,1255.3127
+Brantford,Ontario,2030,Crisis Mode,1567.5834
+Brighton,Unknown,2030,Crisis Mode,1304.5466
+Brock,Unknown,2030,Crisis Mode,1293.332
+Brockville,Unknown,2030,Crisis Mode,1276.0718
+Brooks,Unknown,2030,Crisis Mode,1286.5587
+Calgary,Alberta,2030,Crisis Mode,1770.8643
+Campbell River,Unknown,2030,Crisis Mode,1473.3531
+Campbellton,Unknown,2030,Crisis Mode,991.06805
+Campbellton,Unknown,2030,Crisis Mode,991.06805
+Campbellton,Unknown,2030,Crisis Mode,991.06805
+Camrose,Unknown,2030,Crisis Mode,1311.4237
+Canmore,Unknown,2030,Crisis Mode,2181.317
+Cape Breton,Unknown,2030,Crisis Mode,1255.3127
+Centre Wellington,Unknown,2030,Crisis Mode,1476.2128
+Charlottetown,Prince Edward Island,2030,Crisis Mode,1443.2059
+Chatham-Kent,Unknown,2030,Crisis Mode,1255.3127
+Chilliwack,British Columbia,2030,Crisis Mode,1584.2666
+Cobourg,Unknown,2030,Crisis Mode,1534.7122
+Cold Lake,Unknown,2030,Crisis Mode,1362.235
+Collingwood,Unknown,2030,Crisis Mode,1479.7427
+Corner Brook,Unknown,2030,Crisis Mode,1201.1399
+Cornwall,Unknown,2030,Crisis Mode,1255.3127
+Courtenay,Unknown,2030,Crisis Mode,1530.131
+Cowansville,Unknown,2030,Crisis Mode,1194.4015
+Cranbrook,Unknown,2030,Crisis Mode,1255.3127
+Dawson Creek,Unknown,2030,Crisis Mode,1260.7391
+Dolbeau-Mistassini,Unknown,2030,Crisis Mode,930.828
+Drummondville,Quebec,2030,Crisis Mode,1116.3425
+Duncan,Unknown,2030,Crisis Mode,1341.6156
+East Hants,Unknown,2030,Crisis Mode,439.8463
+Edmonton,Alberta,2030,Crisis Mode,1563.8727
+Edmundston,Unknown,2030,Crisis Mode,1069.7242
+Elliot Lake,Unknown,2030,Crisis Mode,1154.2982
+Essex,Unknown,2030,Crisis Mode,385.50574
+Estevan,Unknown,2030,Crisis Mode,1260.103
+Fort St. John,Unknown,2030,Crisis Mode,1267.1503
+Fredericton,Unknown,2030,Crisis Mode,1295.1604
+Gander,Unknown,2030,Crisis Mode,1187.092
+Gaspé,Unknown,2030,Crisis Mode,1106.089
+Gatineau,Quebec,2030,Crisis Mode,1222.4764
+Granby,Unknown,2030,Crisis Mode,1212.9504
+Grand Falls-Windsor,Unknown,2030,Crisis Mode,1158.5259
+Grande Prairie,Alberta,2030,Crisis Mode,1528.6759
+Gravenhurst,Unknown,2030,Crisis Mode,1429.2861
+Greater Napanee,Unknown,2030,Crisis Mode,1334.2258
+Sudbury,Ontario,2030,Crisis Mode,1550.278
+Sudbury,Ontario,2030,Crisis Mode,1550.278
+Guelph,Ontario,2030,Crisis Mode,1708.058
+Haldimand County,Unknown,2030,Crisis Mode,1265.9729
+Halifax,Nova Scotia,2030,Crisis Mode,1639.9905
+Hamilton,Ontario,2030,Crisis Mode,1603.6956
+Hawkesbury,Unknown,2030,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2030,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2030,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2030,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2030,Crisis Mode,1104.5438
+Hawkesbury,Unknown,2030,Crisis Mode,1104.5438
+High River,Unknown,2030,Crisis Mode,1263.7733
+Huntsville,Unknown,2030,Crisis Mode,1462.8556
+Ingersoll,Unknown,2030,Crisis Mode,1255.3127
+Joliette,Unknown,2030,Crisis Mode,1159.6522
+Kamloops,British Columbia,2030,Crisis Mode,1635.0256
+Kawartha Lakes,Unknown,2030,Crisis Mode,1448.398
+Kelowna,British Columbia,2030,Crisis Mode,1867.8362
+Kentville,Unknown,2030,Crisis Mode,1242.2177
+Kincardine,Unknown,2030,Crisis Mode,1488.8481
+Kings Subdivision,Unknown,2030,Crisis Mode,1255.3127
+Kingston,Ontario,2030,Crisis Mode,1647.5148
+Kitchener,Ontario,2030,Crisis Mode,1708.058
+La Tuque,Unknown,2030,Crisis Mode,916.32007
+Lachute,Unknown,2030,Crisis Mode,1187.4594
+Lacombe,Unknown,2030,Crisis Mode,1388.8763
+Lambton Shores,Unknown,2030,Crisis Mode,1456.3546
+Leamington,Unknown,2030,Crisis Mode,509.93457
+Les Îles-de-la-Madeleine,Unknown,2030,Crisis Mode,1123.869
+Lethbridge,Alberta,2030,Crisis Mode,1504.41
+Lloydminster,Unknown,2030,Crisis Mode,1274.0344
+Lloydminster,Unknown,2030,Crisis Mode,1274.0344
+Lloydminster,Unknown,2030,Crisis Mode,1274.0344
+Lloydminster,Unknown,2030,Crisis Mode,1274.0344
+Lloydminster,Unknown,2030,Crisis Mode,1274.0344
+Lloydminster,Unknown,2030,Crisis Mode,1274.0344
+London,Ontario,2030,Crisis Mode,1567.5834
+Matane,Unknown,2030,Crisis Mode,985.0283
+Meaford,Unknown,2030,Crisis Mode,1280.0029
+Medicine Hat,Alberta,2030,Crisis Mode,1348.5782
+Midland,Unknown,2030,Crisis Mode,1410.5159
+Miramichi,Unknown,2030,Crisis Mode,1203.6986
+Mississippi Mills,Unknown,2030,Crisis Mode,511.36008
+Moncton,New Brunswick,2030,Crisis Mode,1430.1436
+Mont-Laurier,Unknown,2030,Crisis Mode,1026.3318
+Montmagny,Unknown,2030,Crisis Mode,1075.2257
+Montreal,Quebec,2030,Crisis Mode,1189.7004
+Montreal,Quebec,2030,Crisis Mode,1189.7004
+Moose Jaw,Unknown,2030,Crisis Mode,1264.0193
+Nanaimo,British Columbia,2030,Crisis Mode,1732.0752
+New Glasgow,Unknown,2030,Crisis Mode,1204.8853
+Norfolk,Unknown,2030,Crisis Mode,1213.1461
+North Battleford,Unknown,2030,Crisis Mode,1255.3127
+North Bay,Unknown,2030,Crisis Mode,1322.226
+North Grenville,Unknown,2030,Crisis Mode,506.14236
+North Perth,Unknown,2030,Crisis Mode,1255.3127
+Okotoks,Unknown,2030,Crisis Mode,1449.3873
+Orillia,Unknown,2030,Crisis Mode,1393.8663
+Oshawa,Ontario,2030,Crisis Mode,1708.1837
+Ottawa,Ontario,2030,Crisis Mode,1721.2728
+Ottawa,Ontario,2030,Crisis Mode,1721.2728
+Owen Sound,Unknown,2030,Crisis Mode,1259.3081
+Parksville,Unknown,2030,Crisis Mode,1463.355
+Pembroke,Unknown,2030,Crisis Mode,1255.3127
+Penticton,Unknown,2030,Crisis Mode,1460.837
+Petawawa,Unknown,2030,Crisis Mode,1255.3127
+Peterborough,Ontario,2030,Crisis Mode,1567.5834
+Port Alberni,Unknown,2030,Crisis Mode,1255.3127
+Port Hope,Unknown,2030,Crisis Mode,1554.2384
+Portage La Prairie,Unknown,2030,Crisis Mode,1291.7135
+Powell River,Unknown,2030,Crisis Mode,1255.3127
+Prince Albert,Unknown,2030,Crisis Mode,1255.3127
+Prince Edward,Unknown,2030,Crisis Mode,1330.2985
+Prince George,British Columbia,2030,Crisis Mode,1479.4735
+Prince Rupert,Unknown,2030,Crisis Mode,1280.3585
+Prévost,Unknown,2030,Crisis Mode,1255.3127
+Quebec City,Unknown,2030,Crisis Mode,1255.3127
+Queens,Unknown,2030,Crisis Mode,1227.3762
+Quesnel,Unknown,2030,Crisis Mode,1256.6768
+Quebec City,Unknown,2030,Crisis Mode,1255.3127
+Rawdon,Unknown,2030,Crisis Mode,1213.0925
+Red Deer,Alberta,2030,Crisis Mode,1536.4825
+Red Deer County,Unknown,2030,Crisis Mode,1620.3153
+Regina,Saskatchewan,2030,Crisis Mode,1541.5891
+Rimouski,Unknown,2030,Crisis Mode,1065.3336
+Rivière-du-Loup,Unknown,2030,Crisis Mode,1062.2645
+Roberval,Unknown,2030,Crisis Mode,458.373
+Rouyn-Noranda,Unknown,2030,Crisis Mode,1184.0972
+Saguenay,Quebec,2030,Crisis Mode,1083.4062
+Saint John,New Brunswick,2030,Crisis Mode,1386.1694
+Saint-Félicien,Unknown,2030,Crisis Mode,1043.6035
+Saint-Georges,Unknown,2030,Crisis Mode,955.0472
+Saint-Hyacinthe,Unknown,2030,Crisis Mode,1218.6024
+Saint-Jean-sur-Richelieu,Unknown,2030,Crisis Mode,516.9296
+Sainte- Sophie,Unknown,2030,Crisis Mode,1255.3127
+Sainte-Adèle,Unknown,2030,Crisis Mode,1220.4961
+Sainte-Marie,Unknown,2030,Crisis Mode,1076.921
+Salaberry-de-Valleyfield,Unknown,2030,Crisis Mode,1173.3044
+Salmon Arm,Unknown,2030,Crisis Mode,1255.3127
+Sarnia,Ontario,2030,Crisis Mode,1521.4431
+Saskatoon,Saskatchewan,2030,Crisis Mode,1541.5891
+Saugeen Shores,Unknown,2030,Crisis Mode,1601.5559
+Sault Ste. Marie,Ontario,2030,Crisis Mode,1402.6946
+Sault Ste. Marie,Ontario,2030,Crisis Mode,1402.6946
+Scugog,Unknown,2030,Crisis Mode,1425.0541
+Sept-Îles,Unknown,2030,Crisis Mode,1170.9464
+Shawinigan,Unknown,2030,Crisis Mode,995.0126
+Sherbrooke,Quebec,2030,Crisis Mode,1137.1421
+Sorel-Tracy,Unknown,2030,Crisis Mode,1068.7626
+Squamish,Unknown,2030,Crisis Mode,1909.0463
+St. Catharines-Niagara,Ontario,2030,Crisis Mode,1567.5834
+St. Johns,Newfoundland and Labrador,2030,Crisis Mode,1471.593
+Steinbach,Unknown,2030,Crisis Mode,1202.8228
+Stratford,Unknown,2030,Crisis Mode,1534.0951
+Strathmore,Unknown,2030,Crisis Mode,1314.7938
+Summerland,Unknown,2030,Crisis Mode,1583.9158
+Summerside,Unknown,2030,Crisis Mode,1255.3127
+Swift Current,Unknown,2030,Crisis Mode,1242.0751
+Sylvan Lake,Unknown,2030,Crisis Mode,1287.3402
+Temiskaming Shores,Unknown,2030,Crisis Mode,492.95328
+Terrace,Unknown,2030,Crisis Mode,1255.3127
+The Nation,Unknown,2030,Crisis Mode,1359.6724
+Thetford Mines,Unknown,2030,Crisis Mode,958.98975
+Thompson,Unknown,2030,Crisis Mode,1264.8496
+Thunder Bay,Ontario,2030,Crisis Mode,1563.9447
+Tillsonburg,Unknown,2030,Crisis Mode,1255.3127
+Timmins,Unknown,2030,Crisis Mode,1281.6783
+Toronto,Ontario,2030,Crisis Mode,1918.0736
+Trois-Rivières,Unknown,2030,Crisis Mode,1057.2432
+Truro,Unknown,2030,Crisis Mode,1255.3127
+Val-d'Or,Unknown,2030,Crisis Mode,1166.7319
+Vancouver,British Columbia,2030,Crisis Mode,2188.7678
+Vernon,Unknown,2030,Crisis Mode,1443.4896
+Victoria,British Columbia,2030,Crisis Mode,1926.0388
+Victoriaville,Unknown,2030,Crisis Mode,1084.3118
+West Grey,Unknown,2030,Crisis Mode,1255.3127
+West Nipissing,Unknown,2030,Crisis Mode,1255.3127
+Wetaskiwin,Unknown,2030,Crisis Mode,1293.7174
+Williams Lake,Unknown,2030,Crisis Mode,1354.6451
+Windsor,Ontario,2030,Crisis Mode,1481.89
+Winnipeg,Manitoba,2030,Crisis Mode,1543.4033
+Wood Buffalo,Alberta,2030,Crisis Mode,1545.7462
+Woodstock,Unknown,2030,Crisis Mode,1457.9534
+Yarmouth,Unknown,2030,Crisis Mode,436.2153
+Yellowhead County,Unknown,2030,Crisis Mode,249.89777
+Yellowknife,Alberta,2030,Crisis Mode,1934.4323
+Yorkton,Unknown,2030,Crisis Mode,1255.3127
